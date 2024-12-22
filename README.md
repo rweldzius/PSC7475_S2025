@@ -7,7 +7,7 @@
   * [Evaluation & Responsibilities](#evaluation-&-responsibilities)
   * [Course Policies](#course-policies)
   * [Office Hours](#office-hours)
-  * [Syllabus](#syllabus)
+  * [Schedule](#schedule)
   * [Helpful Resources](#helpful-resources)
   * [Acknowledgements](#acknowledgements)
     
@@ -169,7 +169,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 [Back to ToC](#table-of-contents)
 
-## Syllabus
+## Schedule
 
 | Week | Date | Topic | Reading | Materials | Assignment |
 |:----|:-----|:------|:------|:------|:------|
@@ -188,35 +188,35 @@ Villanova University makes every reasonable effort to allow members of the commu
 | 4 | 02/10/25 | Measurement: Sampling & Bivariate Statistics | QSS 3.4-3.6 |  |  |
 | 4 | 02/12/25 |  |  |  |  |
 | 4 | 02/14/25 | Tutorial |  |  | PS2 |
-| 5 | 02/17/25 | Prediction: Elections & Regression | QSS 4.1-4.2.3 |  |  |
+| 5 | 02/17/25 | Prediction: Elections & Regression | QSS 4.1-4.2 |  |  |
 | 5 | 02/19/25 |  |  |  |  |
 | 5 | 02/21/25 | Tutorial (Zoom) |  |  |  |
-| 6 | 02/24/25 | Prediction: More Regression | QSS 4.2.4-4.2.6 |  |  |
+| 6 | 02/24/25 | Prediction: More Regression | QSS 4.3-4.5 |  |  |
 | 6 | 02/26/25 |  |  |  |   |
 | 6 | 02/28/25 | No class | Mid-term due by 11:59PM |  | Exam 1 |
 | 7 | 03/03/25 | Spring Break |  |  |  |
-| 8 | 03/10/25 |  |  |  |  |
+| 8 | 03/10/25 | Discovery: Text as Data | QSS 5.1 |  |  |
 | 8 | 03/12/25 |  |  |  |  |
 | 8 | 03/14/25 | Tutorial |  |  |  |
-| 9 | 03/17/25 |  |  |  |  |
+| 9 | 03/17/25 | Discovery: Network & Spatial Data | QSS 5.2-5.4 |  |  |
 | 9 | 03/19/25 |  |  |  |  |
-| 9 | 03/21/25 | Tutorial |  |  |  |
-| 10 | 03/24/25 |  |  |  |  |
+| 9 | 03/21/25 | Tutorial |  |  | PS3 |
+| 10 | 03/24/25 | Probability: Basics | QSS 6.1-6.2 |  |  |
 | 10 | 03/26/25 |  |  |  |  |
 | 10 | 03/28/25 | Tutorial |  |  |  |
-| 11 | 03/31/25 |  |  |  |  |
+| 11 | 03/31/25 | Probability: Random Variables & Large Samples | QSS 6.3-6.5 |  |  |
 | 11 | 04/02/25 |  |  |  |  |
-| 11 | 04/04/25 |  |  |  |  |
-| 12 | 04/07/25 |  |  |  |  |
+| 11 | 04/04/25 | Tutorial |  |  | PS4 |
+| 12 | 04/07/25 | Inference: Estimation | QSS 7.1 |  |  |
 | 12 | 04/09/25 |  |  |  |  |
 | 12 | 04/11/25 | No Class |  |  |  |
-| 13 | 04/14/25 |  |  |  |  |
+| 13 | 04/14/25 | Inference: Hypothesis Testing | QSS 7.2 |  |  |
 | 13 | 04/16/25 |  |  |  |  |
 | 13 | 04/18/25 | No Class (Easter Recess) |  |  |  |
 | 14 | 04/21/25 | No Class (Easter Recess) |  |  |  |
-| 14 | 04/23/25 |  |  |  |  |
-| 14 | 04/25/25 |  |  |  |  |
-| 15 | 04/28/25 |  |  |  |  |
+| 14 | 04/23/25 | Inference: Uncertainty in Regression | QSS 7.3 |  |  |
+| 14 | 04/25/25 |  |  |  | PS5 |
+| 15 | 04/28/25 | Review & Wrap-up  |  |  |  |
 | 15 | 04/30/25 |  |  |  |  |
 |  | 05/05/25 | Final exam due by 11:59PM |  |  |  |
 
