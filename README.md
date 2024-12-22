@@ -171,41 +171,54 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Syllabus
 
-| Date | Topic | Learning Goal | Materials | HW | Pset |
-|:-----|:------|:------|:------|:------|:------|
-| 8/26/24 | Introduction | Scientific method, camps of analysis | [Lecture 1](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_1_slides.html) | [HW 1](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_1.Rmd) | [PS 0](https://github.com/rweldzius/PSC4175_F2024/blob/main/Psets/psc4175_pset_0.Rmd) |
-| 8/28/24 | Intro to R 1 | Objects, functions, and code | [Lecture 2](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_2_slides.html) | [HW 2](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_2.Rmd) | |
-| 9/2/24 | No Class | | | | [PS 1](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_1.Rmd) |
-| 9/4/24 | Intro to R 2 | Visualization in R | [Lecture 3](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_3_slides.html) | [HW 3](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_3.Rmd) | |
-| 9/9/24 | Intro to R 3 | More visualization |[Lecture 4](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_4_slides.html) | [HW 4](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_4.Rmd) | [PS 2](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_2.Rmd) |
-| 9/11/24 | Data Wrangling | Replicability and tabular data | [Lecture 5](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_5_slides.html) | [HW 5](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_5.Rmd)  | |
-| 9/16/24 | Univariate Analysis | Summaries of a single variable | [Lecture 6](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_6_slides.html) | [HW 6](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_6.Rmd) | [PS 3](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_3.Rmd) |
-| 9/18/24 | Multivariate 1 | Summaries of multiple variables | [Lecture 7](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_7_slides.html) | [HW 7](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_7.Rmd)  |  |
-| 9/23/24 | Multivariate 2 | Visualizations of multiple variables | [Lecture 8](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_8_slides.html) | [HW 8](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_8.Rmd) | [PS 4](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_4.Rmd) |
-| 9/25/24 | Multivariate 3 | Visualizations of multiple variables | [Lecture 9](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_9_slides.html) | [HW 9](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_9.Rmd) | |
-| 9/30/244 | Uncertainty 1 | Uncertainty and bootstrapping | [Lecture 10](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_10_slides.html) | [HW 10](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_10.Rmd) | [PS 5](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_5.Rmd) |
-| 10/2/2 | Uncertainty 2 | Confidence statements | [Lecture 11](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_11_slides.html) | [HW 11](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_11.Rmd) | |
-| 10/7/24 |  Review Session |  | | |  |
-| 10/9/24 | Midterm Exam |  | | | |
-| 10/14/24 | Fall Break |  | | | |
-| 10/16/24 | Fall Break |  |  | | |
-| 10/21/24 | Regression 1 | Interpreting output and evaluating model | [Lecture 12](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_12_slides.html) | [HW 12](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_12.Rmd) | [PS 6](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_6.Rmd) |
-| 10/23/24 | Regression 2 | Interpreting output and evaluating model | [Lecture 13](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_13_slides.html) | [HW 13](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_13.Rmd) | |
-| 10/28/24 | Regression 3 | Multiple regression, categorical Xs | [Lecture 14](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_14_slides.html) | [HW 14](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_14.Rmd) |  |
-| 10/30/24 | Review Session | Regression | |  | |
-| 11/4/24 | Classification 1 | The concept of logistic regression | [Lecture 15](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_15_slides.html) | [HW 15](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_15.Rmd) | [PS 7](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_7.Rmd)  |
-| 11/6/24 | Classification 2 | Interpreting output and evaluating model |[Lecture 16](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_16_slides.html) | [HW 16](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_16.Rmd) |  |
-| 11/11/24 | Classification 3 | Interpreting output and evaluating model | [Lecture 17](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_17_slides.html) | [HW 17](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_17.Rmd) |  |
-| 11/13/24 | Guest Lecture | TBD |  |  | |
-| 11/18/24 | Clustering | k-means clustering | [Lecture 18](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_18_slides.html) | [HW 18](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_18.Rmd) | [PS 8](https://github.com/rweldzius/psc4175_F2024/blob/main/Psets/psc4175_pset_8.Rmd) |
-| 11/20/24 | NLP 1 | k-means clustering on text | [Lecture 19](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_19_slides.html) | [HW 19](https://github.com/rweldzius/PSC4175_F2024/blob/main/Homeworks/psc4175_hw_19.Rmd) | |
-| 11/25/24 | NLP 2 | Sentiment analysis | [Lecture 20](https://rweldzius.github.io/PSC4175_F2024/Lectures/psc4175_lecture_20_slides.html)  | | |
-| 11/27/24 | No Class |  |  | | |
-| 12/2/24 | Review Session & discuss final projects | |  | | |
-| 12/4/24 | In-class work on final projects | |  | | |
-| 12/9/24 | Final project presentations | |  | | |
-| 12/11/24 | Final project presentations |  |  | | |
-| 12/18/24 | Final Exam Due | |  | | |
+| Week | Date | Topic | Reading | Materials | Assignment |
+|:----|:-----|:------|:------|:------|:------|
+| 0 | 01/13/25 | Course Overview | Syllabus |  |  |
+| 0 | 01/15/25 | Introduction to QSS | QSS 1.1-1.4 |  |  |
+| 0 | 01/17/25 | R-Markdown (no class meeting) | [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  | PS0 |
+| 1 | 01/20/25 | No Class |  |  |  |
+| 1 | 01/22/25 | Causality: Randomized Experiments | QSS 2.1-2.4 |  |  |
+| 1 | 01/24/25 |  |  |  |  |
+| 2 | 01/27/25 | Causality: Observational Studies | QSS 2.5-2.6 |  |  |
+| 2 | 01/29/25 |  |  |  |  |
+| 2 | 01/31/25 | Tutorial |  |  | PS1 |
+| 3 | 02/03/25 | Measurement: Descriptive Statistics | QSS 3.1-3.3 |  |  |
+| 3 | 02/05/25 |  |  |  |  |
+| 3 | 02/07/25 | Tutorial |  |  |  |
+| 4 | 02/10/25 | Measurement: Sampling & Bivariate Statistics | QSS 3.4-3.6 |  |  |
+| 4 | 02/12/25 |  |  |  |  |
+| 4 | 02/14/25 | Tutorial |  |  | PS2 |
+| 5 | 02/17/25 | Prediction: Elections & Regression | QSS 4.1-4.2.3 |  |  |
+| 5 | 02/19/25 |  |  |  |  |
+| 5 | 02/21/25 | Tutorial (Zoom) |  |  |  |
+| 6 | 02/24/25 | Prediction: More Regression | QSS 4.2.4-4.2.6 |  |  |
+| 6 | 02/26/25 |  |  |  |   |
+| 6 | 02/28/25 | No class | Mid-term due by 11:59PM |  | Exam 1 |
+| 7 | 03/03/25 | Spring Break |  |  |  |
+| 8 | 03/10/25 |  |  |  |  |
+| 8 | 03/12/25 |  |  |  |  |
+| 8 | 03/14/25 | Tutorial |  |  |  |
+| 9 | 03/17/25 |  |  |  |  |
+| 9 | 03/19/25 |  |  |  |  |
+| 9 | 03/21/25 | Tutorial |  |  |  |
+| 10 | 03/24/25 |  |  |  |  |
+| 10 | 03/26/25 |  |  |  |  |
+| 10 | 03/28/25 | Tutorial |  |  |  |
+| 11 | 03/31/25 |  |  |  |  |
+| 11 | 04/02/25 |  |  |  |  |
+| 11 | 04/04/25 |  |  |  |  |
+| 12 | 04/07/25 |  |  |  |  |
+| 12 | 04/09/25 |  |  |  |  |
+| 12 | 04/11/25 | No Class |  |  |  |
+| 13 | 04/14/25 |  |  |  |  |
+| 13 | 04/16/25 |  |  |  |  |
+| 13 | 04/18/25 | No Class (Easter Recess) |  |  |  |
+| 14 | 04/21/25 | No Class (Easter Recess) |  |  |  |
+| 14 | 04/23/25 |  |  |  |  |
+| 14 | 04/25/25 |  |  |  |  |
+| 15 | 04/28/25 |  |  |  |  |
+| 15 | 04/30/25 |  |  |  |  |
+|  | 05/05/25 | Final exam due by 11:59PM |  |  |  |
 
 [Back to ToC](#table-of-contents)
 
