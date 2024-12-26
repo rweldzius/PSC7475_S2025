@@ -175,7 +175,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 |:----|:-----|:------|:------|:------|:------|
 | 0 | 01/13/25 | Course Overview | Syllabus |  |  |
 | 0 | 01/15/25 | Introduction to QSS | QSS 1.1-1.4 |  |  |
-| 0 | 01/17/25 | R-Markdown (no class meeting) | [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  | PS0 |
+| 0 | 01/17/25 | Tutorial (Zoom) | [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  | PS0 |
 | 1 | 01/20/25 | No Class |  |  |  |
 | 1 | 01/22/25 | Causality: Randomized Experiments | QSS 2.1-2.4 |  |  |
 | 1 | 01/24/25 |  |  |  |  |
