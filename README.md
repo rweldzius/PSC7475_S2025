@@ -49,13 +49,11 @@ In this course, you will learn to:
  * Understand uncertainty in data analysis and how to quantify it
  * Use professional tools for data analysis such as R, RStudio, git, and GitHub
 
-I will also attempt to inspire a passion for data analysis and create a community amongst you to deepen your learning.
-
 [Back to ToC](#table-of-contents)
 
 ## Prerequisites 
 
-Most students will take PSC1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (via AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
+Most students will take PSC1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (e.g., AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
 
 We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed a Problem Set 0 to guide you through installing R, RStudio, and git to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
 
@@ -285,8 +283,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 | Week | Date | Topic | Reading | Materials | Assignment |
 |:----|:-----|:------|:------|:------|:------|
-| 0 | 01/13/25 | Course Overview | Syllabus |  |  |
-| 0 | 01/15/25 | Introduction to QSS | QSS 1.1-1.4 |  |  |
+| 0 | 01/13/25 | Course Overview | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  | F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  |
+| 0 | 01/15/25 | Introduction to QSS |  |  |  |
 | 0 | 01/17/25 | Tutorial (Zoom) | [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  | PS0 |
 | 1 | 01/20/25 | No Class |  |  |  |
 | 1 | 01/22/25 | Causality: Randomized Experiments | QSS 2.1-2.4 |  |  |
