@@ -84,13 +84,14 @@ I encourage students to rely on peer working groups as they work on these proble
 
 The schedule for the problem sets will be:
 
-| Problem Set | Percent of final grade | 
-|:-----|:-----:|
-| R Homeworks | 10% |
-| Four Problem Sets | 40% |
-| Exams | 30% |
-| Final Project | 20% |
+| Problem Set | Topic | Release Date | Due Date | 
+|:-----|:-----|:-----|:-----|
+| PSet 1 | Randomized Experiments | Fri, Jan 24th 12:00pm ET | Fri, Jan 31st 11:59pm ET|
+| PSet 2 | Summarizing Data | Fri, Feb 7th 12:00pm ET | Fri, Feb 14th 11:59pm ET ❤️|
+| PSet 3 | Regression | | |
+| PSet 4 | Inference | | |
 
+**Grace policy**: When calculating the final problem set portion of the overall grade, I will drop the lowest of the four scores and use the remaining scores. Thus, if you have an emergency that forces you to miss one problem set, your grade will not be severely affected.
 
 
 The contents of this repository represent a work-in-progress and revisions and edits are likely frequent.
