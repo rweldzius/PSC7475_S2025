@@ -9,7 +9,9 @@
   * [Grading](#grading)
   * [Homeworks](#homeworks)
   * [Problem Sets](#problem-sets)
-  * 
+  * [Exams](#exams)
+  * [Final Project](#final-project)
+  * [Flow of the Course](#flow-of-the-course)
   * [Required Applications](#required-applications)
   * [Evaluation & Responsibilities](#evaluation-&-responsibilities)
   * [Course Policies](#course-policies)
@@ -23,6 +25,8 @@
 How does class size affect educational outcomes? Can individuals' attitudes about gay marriage be changed? How can we measure racial discrimination in job hiring? What is the best way to predict election outcomes? What factors drive the onset of civil wars? Is it possible to determine what members of Congress are more or less liberal given their voting record? These are just a few of the numerous question that social scientists are tackling with quantitative data. Beyond academia, companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, and programs. Data scientists at these institutions are essentially applied social scientists and employ many of the same techniques you will learn in this course.
 
 What will you learn in this course? Our goal is to give you the ability to understand, explain, and perform social science research, with a special focus on data analysis and causal reasoning. You will be able to read and understand the methodology of most academic articles in the social sciences, but more importantly you will have a foot in the door of the data science world. The ability to collect and analyze data in a sophisticated manner is becoming a crucial skill set for the modern job market across industries. Finally, you will obtain data literacy that will help you be a critical consumer of evidence for the rest of your life.
+
+[Back to ToC](#table-of-contents)
 
 ## Expectations
 
@@ -45,6 +49,8 @@ In this course, you will learn to:
 
 I will also attempt to inspire a passion for data analysis and create a community amongst you to deepen your learning.
 
+[Back to ToC](#table-of-contents)
+
 ## Prerequisites 
 
 Most students will take PSC1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (via AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
@@ -52,6 +58,8 @@ Most students will take PSC1900, which provides a general overview of research m
 We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed a Problem Set 0 to guide you through installing R, RStudio, and git to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
 
 No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis project.
+
+[Back to ToC](#table-of-contents)
 
 ## Grading
 
@@ -70,11 +78,15 @@ I will use Blackboard for submission of the various assignments throughout the s
 
 **Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
 
+[Back to ToC](#table-of-contents)
+
 ## Homeworks
 
 I will assign short weekly homeworks to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in RStudio. While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Wednesdays at 11:59pm ET.
 
 At the beginning of the term, these homeoworks will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
+
+[Back to ToC](#table-of-contents)
 
 ## Problem Sets
 
@@ -92,6 +104,61 @@ The schedule for the problem sets will be:
 | PSet 4 | Inference | | |
 
 **Grace policy**: When calculating the final problem set portion of the overall grade, I will drop the lowest of the four scores and use the remaining scores. Thus, if you have an emergency that forces you to miss one problem set, your grade will not be severely affected.
+
+[Back to ToC](#table-of-contents)
+
+## Exams
+
+There will be two take-home exams during the course. These exams will be similar to a problem set in format and in the sense that it will be open book and open internet, but you **will not** be allowed to collaborate with other students or be able to communicate with any humans about the exam. You will be given several days to complete the exam. I will provide more information about the exam as it approaches.
+
+| Exam | Release Date | Due Date | 
+|:-----|:-----|:-----|
+| Exam 1 | Fri, Jan 24th 12:00pm ET | Fri, Jan 31st 11:59pm ET|
+| Exam 2 | Fri, Jan 24th 12:00pm ET | Fri, Jan 31st 11:59pm ET|
+
+[Back to ToC](#table-of-contents)
+
+## Final Project
+
+The final project for the course will be a data analysis project where students will find a dataset of interest, state an interesting research question about that data, and answer this question using that data. Students may work individually, or can work in groups of up to 3 students.
+
+| Milestone | Due Date | 
+|:-----|:-----|
+| Proposal | |
+| Draft Analyses & Presentations | | 
+| Final Report | | 
+
+[Back to ToC](#table-of-contents)
+
+## Flow of the Course
+
+The course will follow a basic flow each week, with small differences if a homework or problem set is due or not.
+
+ * Monday: Lecture
+ * Tuesday: Homework due
+ * Wednesday: Discuss homework in class
+ * Thursday: Work on problem set (if due)
+ * Friday: R Tutorial (like extra office hours)
+
+[Back to ToC](#table-of-contents)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 The contents of this repository represent a work-in-progress and revisions and edits are likely frequent.
