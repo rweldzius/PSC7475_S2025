@@ -257,7 +257,12 @@ If a student is found responsible for an academic integrity violation, which res
 
 Collaboration is the heart of data science, but your work on your assignments should be your own. Please be careful not to plagiarize. The above link is a very helpful guide to understanding plagiarism. In particular, while students are invited to work on problem sets together, collaboration is prohibited on the midterm and final exams.
 
-Copilot/ChatGPT and related Large Language Models (LLMs) are essential tools in the data scientist's toolkit, and acceptable resources for completing the assignments and learning concepts at a deeper level. However, graded assignments cannot be generated purely by these tools; this will result in an automatic zero and an academic integrity investigation. You should only use AI to help troubleshoot errors in your R code. All assignments must include a log of the Copilot/ChatGPT prompts and resulting output used to complete the assignment. If you do not include a log, you will also receive a zero if I find that you used AI to assist in completing your assignment.
+AI (e.g., ChatGPT, Copilot) is an essential tool in the data scientist's toolkit, and acceptable resources for completing the assignments and learning concepts at a deeper level. However, there are specific ways in which its use is allowed:
+ * Always include a log of your AI use (print the output or include a link if using ChatGPT)
+ * You may use AI to help troubleshoot an error in your R code.
+ * You may **not** use AI to solve the problem. This will result in an automatic zero and an academic integrity investigation. This is a **zero tolerance** policy.
+ * If you use AI to hlep troubleshoot an error but do not include your log file or link to ChatGPT (ie, no citation is included) you will also receive a zero and an academic integrity investitation. 
+
 
 ### Office for Access & Disability Services (ADS) and Learning Support Services (LSS)
 
