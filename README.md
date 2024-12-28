@@ -26,6 +26,8 @@ How does class size affect educational outcomes? Can individuals' attitudes abou
 
 What will you learn in this course? Our goal is to give you the ability to understand, explain, and perform social science research, with a special focus on data analysis and causal reasoning. You will be able to read and understand the methodology of most academic articles in the social sciences, but more importantly you will have a foot in the door of the data science world. The ability to collect and analyze data in a sophisticated manner is becoming a crucial skill set for the modern job market across industries. Finally, you will obtain data literacy that will help you be a critical consumer of evidence for the rest of your life.
 
+**Class time and location**: M/W/F 12:50-13:40 in Bartley Hall 032.
+
 [Back to ToC](#table-of-contents)
 
 ## Expectations
@@ -74,9 +76,26 @@ Here are how each portion of course contributes to the overall grade:
 | Exams | 30% |
 | Final Project | 20% |
 
-I will use Blackboard for submission of the various assignments throughout the semester. 
+You will use Blackboard for submission of the various assignments throughout the semester. 
 
 **Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
+
+Letter grades are determined as per the standard Villanova grading system:
+
+  * A: 94+
+  * A-: 90-93
+  * B+: 87-89
+  * B: 84-86
+  * B-: 80-83
+  * C+: 77-79
+  * C: 74-76
+  * C-: 70-73
+  * D+: 67-69
+  * D: 64-66
+  * D-: 60-63
+  * F: <60
+
+**Blackboard Gradebook**: although your grade for each assignment will appear on Blackboard, I will not use Blackboard to estimate your final grade. I will calculate your final grade according to the percentages I highlight above, which you can also do using a simple Excel spreadsheet. 
 
 [Back to ToC](#table-of-contents)
 
@@ -161,13 +180,12 @@ The course will follow a basic flow each week, with small differences if a homew
 
 
 
-The contents of this repository represent a work-in-progress and revisions and edits are likely frequent.
 
-The main text for the course is "R For Data Science" which can be assessed free online [here](https://r4ds.hadley.nz).
+
 
 Villanova has an enterprise site license for Microsoft’s Copilot chat application, which is built off of Open A.I.  Copilot is available to all faculty, staff, and students [here](https://copilot.microsoft.com).
 
-**Class time and location**: M/W 3:20-4:35 in Bartley Hall 2073.
+
 
 [Back to ToC](#table-of-contents)
 
@@ -209,61 +227,6 @@ You are expected to adopt the following workflow for this class:
 
 [Back to ToC](#table-of-contents)
 
-## Evaluation & Responsibilities  
-
-As with learning any new topic or language, the best strategy is to put in a little effort every day. To this end, you will be assigned homework assignments for each class (see "workflow" above) that correspond with readings from the text. I recommend you read through the book first to get an overview of the topic and then attack the homework. 
-
-In class, as we work through the lecture material, please ask questions. Participation is key for your learning, but it will not be a part of your grade. Instead, you will be assigned weekly problem sets that will test your ability to apply what you've learned in class, and to think creatively about your own data science ideas. These problem sets are assigned on the Monday of each week and are due by **11:59PM Villanova time the following Friday**. You are welcome to collaborate on these problem sets, and are encouraged to ask questions on the Class feed on Campuswire.
-
-There are also two exams and a final project. The first exam is a midterm exam that is scheduled for the Wednesday before Fall break (10/09/2024) and will take place in class. The second exam is a cumulative final that is scheduled for December 18th; note that you can opt of this exam if you are happy with your grade as it stands on the last day of class. The final project will allow you to use the skills you learned in this class to address an interesting research question of your choosing.
-
-The final grade is calculated as a weighted average of these components with the following weights:
-
-  * **Problem sets**: 8 in total, only 7 of which are worth 5 points each for a total of 35 points. This means you can miss a problem set without it hurting your final grade.
-
-  * **Exams**: Midterm and final. The midterm is worth 20 points and is in-class, and the final worth 20 points and is a take-home. 
-
-  * **Quizzes**: There are 19 quizzes over the course of the semester which can only be taken if you attend class. Each consist of several questions plus an attendance statement. 0.5 points comes from accurately answering all five questions, and 0.5 points comes from signing the attendance statement. Each quiz is worth 1 point of your final grade, and combined comprise the final 15 points, meaning that 4 are not counted toward your final grade.
-    
-  *  **Final Project**: Worth 10 points (write-up 8 points, presentation 2 points). In the last week of the semester, you will present a proposal for an individual research project. The proposal will be a minimum of five pages, using two skills/methods from the first half of class and two from the second half. Your proposal (and presentation) should briefly describe your research puzzle, question, and argument, then present some data that either motivates the puzzle/question/argument or tests the argument using the methods you learned. DO NOT TRY TO PRESENT EVERYTHING FROM YOUR PROPOSAL! 1 EC point will be allocated for giving feedback (minimum of 300 words) to a classmate on a draft of their project (up to 2 EC points allowed by giving feedback to two different classmates). This means you need to share your drafts early! You must submit your feedback(s) with your proposal by **Sunday 12/8/24 at 5pm**. 
-
-  * **Extra Credit**: There is one extra credit point on each problem set, two extra credit points on the midterm and final, and two extra credit points on the final project. Thus the maximum total points you can receive in this class is 125, meaning that if you ace every problem set, the midterm, every quiz, and the final project, you will have 103 points before the final exam. Achieving a perfect score requires a lot of effort, but would allow you to skip the final exam if you so chose.
-
-See the table below for a breakdown of the percentages, points, and extra credit.
-
-| Item | Percent | Points | EC | Max |
-|:-----|:-----:|:-----:|:-----:|:-----:|
-| pset1 | 5% | 5 | 1 | 6 |
-| pset2 | 5% | 5 | 1 | 6 |
-| pset3 | 5% | 5 | 1 | 6 |
-| pset4 | 5% | 5 | 1 | 6 |
-| pset5 | 5% | 5 | 1 | 6 |
-| pset6 | 5% | 5 | 1 | 6 |
-| pset7 | 5% | 5 | 1 | 6 |
-| pset8 | 0% | 0 | 6 | 6 |
-| Quizzes | 15% | 15 | 4 | 19 |
-| Midterm exam | 20% | 20 | 2 | 22 |
-| Final project | 10% | 10 | 2 | 12 |
-| Final exam | 20% | 20 | 2 | 22 |
-| **Totals** | **100%** | **100** | **25** | **125** |
-
-Letter grades are determined as per the standard Villanova grading system:
-
-  * A: 94+
-  * A-: 90-93
-  * B+: 87-89
-  * B: 84-86
-  * B-: 80-83
-  * C+: 77-79
-  * C: 74-76
-  * C-: 70-73
-  * D+: 67-69
-  * D: 64-66
-  * D-: 60-63
-  * F: <60
-
-[Back to ToC](#table-of-contents)
-
 ## Course Policies
 
 ### Attendance
@@ -275,11 +238,10 @@ Students are entitled to one excused absence for any reason that may contribute 
 
 A Personal Day does not grant an automatic extension for items due. Students remain responsible for all assignments, exams, presentations, etc. due on that date. It is in the instructor’s discretion to determine whether any extension is appropriate given individual circumstances.
 
-Quizzes will not be excused due to an absence (excused or unexcused). Remember you have four "freebies" so use these wisely. 
 
 ### Late Assignments
 
-Every problem set is assigned on a Monday and due on Blackboard by **11:59PM Villanova time on the following Friday**. Problem sets should be submitted via Blackboard. The problem sets are designed to require no more than two hours in total to complete. Late submissions will be **penalized 1 point off for each day late**. After three days, problem sets will no longer be accepted and will be scored 0. Remember that your lowest scoring problem set will not be counted toward your final grade, effectively giving you one "freebie;" use it wisely! Answer keys for the preceding week's problem set are posted on Wednesdays after class.
+Every problem set and exam is assigned on a Friday and due on Blackboard by **11:59pm Villanova time on the following Friday**. Problem sets and exams should be submitted via Blackboard. Late submissions will be **penalized 1 full letter grade for each day late**. After three days, problem sets and exams will no longer be accepted and will be scored 0.
 
 ### Cell Phones, Laptops, Tablets, etc.
 
@@ -295,7 +257,7 @@ If a student is found responsible for an academic integrity violation, which res
 
 Collaboration is the heart of data science, but your work on your assignments should be your own. Please be careful not to plagiarize. The above link is a very helpful guide to understanding plagiarism. In particular, while students are invited to work on problem sets together, collaboration is prohibited on the midterm and final exams.
 
-Copilot and related Large Language Models (LLMs) are essential tools in the data scientist's toolkit, and acceptable resources for completing the assignments and learning concepts at a deeper level. However, graded assignments cannot be generated purely by these tools. All assignments must include a log of the Copilot prompts and resulting output used to complete the assignment.
+Copilot/ChatGPT and related Large Language Models (LLMs) are essential tools in the data scientist's toolkit, and acceptable resources for completing the assignments and learning concepts at a deeper level. However, graded assignments cannot be generated purely by these tools; this will result in an automatic zero and an academic integrity investigation. You should only use AI to help troubleshoot errors in your R code. All assignments must include a log of the Copilot/ChatGPT prompts and resulting output used to complete the assignment. If you do not include a log, you will also receive a zero if I find that you used AI to assist in completing your assignment.
 
 ### Office for Access & Disability Services (ADS) and Learning Support Services (LSS)
 
@@ -309,9 +271,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Office Hours
 
-  * M & W 1-2pm in SAC 257
-  * You must make an appointment for office hours here: https://calendly.com/weldzius/officehours
-  * If you cannot make my office hours, please email me your availability at least 24-hours in advance and we can try to find a time that works.
+  * Wednesdays 2-4pm in SAC 257 (also Friday class meetings will serve as additional office hours)
+  * You must make an appointment for Wednesday office hours here: https://calendly.com/weldzius/officehours
 
 [Back to ToC](#table-of-contents)
 
