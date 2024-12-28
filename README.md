@@ -3,6 +3,13 @@
 ## Table of Contents
 
   * [Course Description](#course-description)
+  * [Expectations](#expectations)
+  * [Course Objectives](#course-objectives)
+  * [Prerequisites](#prerequisites)
+  * [Grading](#grading)
+  * [Homeworks](#homeworks)
+  * [Problem Sets](#problem-sets)
+  * 
   * [Required Applications](#required-applications)
   * [Evaluation & Responsibilities](#evaluation-&-responsibilities)
   * [Course Policies](#course-policies)
@@ -13,7 +20,78 @@
     
 ## Course Description
 
-The use of large, quantitative data sets is increasingly central in social science.  Whether one seeks to understand political behavior, economic outcomes, or violent conflict, the availability of large quantities of data has changed the study of social phenomena. In this course, students will learn about data acquisition, management, and visualization — what we call data science — to answer exciting questions in the social sciences. Whereas most data-related courses focus exclusively on probability theory, matrix algebra, and/or statistical estimation, our main focus will be on the computational tools of data science. Students will leave the course with the ability to acquire, clean, analyze, visualize, and analyze various types of political data using the statistical programming language R, which will set them up for success in future statistical courses (as well as the post-graduation job market). No prior background in statistics is required, but students should be familiar with how to use a computer and have a willingness to learn a variety of data science tools. 
+How does class size affect educational outcomes? Can individuals' attitudes about gay marriage be changed? How can we measure racial discrimination in job hiring? What is the best way to predict election outcomes? What factors drive the onset of civil wars? Is it possible to determine what members of Congress are more or less liberal given their voting record? These are just a few of the numerous question that social scientists are tackling with quantitative data. Beyond academia, companies and non-profits have invested heavily in data science techniques to learn about their users, platforms, and programs. Data scientists at these institutions are essentially applied social scientists and employ many of the same techniques you will learn in this course.
+
+What will you learn in this course? Our goal is to give you the ability to understand, explain, and perform social science research, with a special focus on data analysis and causal reasoning. You will be able to read and understand the methodology of most academic articles in the social sciences, but more importantly you will have a foot in the door of the data science world. The ability to collect and analyze data in a sophisticated manner is becoming a crucial skill set for the modern job market across industries. Finally, you will obtain data literacy that will help you be a critical consumer of evidence for the rest of your life.
+
+## Expectations
+
+In this course, you will be expected to
+
+ * complete four problem sets,
+ * complete ten weekly tutorials,
+ * take two take-home, open-book exams, and
+ * write one final data analysis project.
+
+## Course Objectives
+
+In this course, you will learn to:
+
+ * Evaluate claims about causality
+ * Summarize and visualize data
+ * Be able to use linear regression to analyze data
+ * Understand uncertainty in data analysis and how to quantify it
+ * Use professional tools for data analysis such as R, RStudio, git, and GitHub
+
+I will also attempt to inspire a passion for data analysis and create a community amongst you to deepen your learning.
+
+## Prerequisites 
+
+Most students will take PSC1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (via AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
+
+We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed a Problem Set 0 to guide you through installing R, RStudio, and git to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
+
+No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis project.
+
+## Grading
+
+You (the student) and I (the instructor) should care the most about what you learn, not what numerical/letter summary of that learning you get at the end of the semester. So I would love to not have grades at all, but unfortunately we humans are very good at procrastinating on our good intentions when there is no incentive not to. Thus, we have grades to help solve this commitment problem and to encourage you to put effort into learning the course material.
+
+Here are how each portion of course contributes to the overall grade:
+
+| Category | Percent of final grade | 
+|:-----|:-----:|
+| R Homeworks | 10% |
+| Four Problem Sets | 40% |
+| Exams | 30% |
+| Final Project | 20% |
+
+I will use Blackboard for submission of the various assignments throughout the semester. 
+
+**Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
+
+## Homeworks
+
+I will assign short weekly homeworks to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in RStudio. While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Wednesdays at 11:59pm ET.
+
+At the beginning of the term, these homeoworks will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
+
+## Problem Sets
+
+Only reading about data science is about as instructive as reading a lot about hammers or watching someone else wield a hammer. You need to get your hands on a hammer or two. Thus, in this course, you will have 4 problem sets to complete throughout the semester that will give you an opportunity to apply the statistical techniques you are learning. They will usually be focused on data analysis in general and will often involve a real dataset.
+
+I encourage students to rely on peer working groups as they work on these problem sets, but each student will submit their own work individually.
+
+The schedule for the problem sets will be:
+
+| Problem Set | Percent of final grade | 
+|:-----|:-----:|
+| R Homeworks | 10% |
+| Four Problem Sets | 40% |
+| Exams | 30% |
+| Final Project | 20% |
+
+
 
 The contents of this repository represent a work-in-progress and revisions and edits are likely frequent.
 
@@ -238,4 +316,4 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Acknowledgements
 
-The contents of this course are influenced by and often come directly from Prof. James H. Bisbee who teaches a similar course at Vanderbilt University. I am indebted to him for making his course materials available. 
+The contents of this course are influenced by and often come directly from Dr. Matthew Blackwell at Harvard University where he teaches a similar undergraduate course. I am grateful to Matt for making his course materials public with a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
