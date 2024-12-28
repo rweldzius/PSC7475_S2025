@@ -76,7 +76,7 @@ Here are how each portion of course contributes to the overall grade:
 | Exams | 30% |
 | Final Project | 20% |
 
-You will use Blackboard for submission of the various assignments throughout the semester. 
+You will use  for submission of the various assignments throughout the semester. 
 
 **Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
 
@@ -95,7 +95,7 @@ Letter grades are determined as per the standard Villanova grading system:
   * D-: 60-63
   * F: <60
 
-**Blackboard Gradebook**: although your grade for each assignment will appear on Blackboard, I will not use Blackboard to estimate your final grade. I will calculate your final grade according to the percentages I highlight above, which you can also do using a simple Excel spreadsheet. 
+**Blackboard Gradebook**: although your grade for each assignment will appear on Blackboard, I will not use Blackboard to estimate your final grade. Blackboard will not calculate your final grade or estimate your final grade. I will calculate your final grade according to the percentages I highlight above, which you can also do using a simple Excel spreadsheet. 
 
 [Back to ToC](#table-of-contents)
 
