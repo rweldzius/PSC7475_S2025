@@ -115,10 +115,10 @@ The schedule for the problem sets will be:
 
 | Problem Set | Topic | Release Date | Due Date | 
 |:-----|:-----|:-----|:-----|
-| PSet 1 | Randomized Experiments | Fri, Jan 24th 12:00pm ET | Fri, Jan 31st 11:59pm ET|
-| PSet 2 | Summarizing Data | Fri, Feb 7th 12:00pm ET | Fri, Feb 14th 11:59pm ET ❤️|
-| PSet 3 | Regression | | |
-| PSet 4 | Inference | | |
+| PSet 1 | Randomized Experiments | Fri (01/24) 12:00PM ET | Fri (01/31) 11:59PM ET|
+| PSet 2 | Summarizing Data | Fri (02/07) 12:00PM ET | Fri (02/14) 11:59PM ET ❤️|
+| PSet 3 | Regression | Fri (03/14) 12:00PM ET  | Fri (03/21) 11:59PM ET |
+| PSet 4 | Inference | Fri (04/04) 12:00PM ET | Fri (04/11) 11:59PM ET |
 
 **Grace policy**: When calculating the final problem set portion of the overall grade, I will drop the lowest of the four scores and use the remaining scores. Thus, if you have an emergency that forces you to miss one problem set, your grade will not be severely affected.
 
@@ -141,9 +141,10 @@ The final project for the course will be a data analysis project where students 
 
 | Milestone | Due Date | 
 |:-----|:-----|
-| Proposal | Wed 03/12 |
-| Draft Analyses & Presentations | 04/16 | 
-| Final Report | 05/09 | 
+| Proposal | Wed (03/12) by 11:59PM ET |
+| Draft Analyses | Wed (04/16) by 11:59PM ET |
+| In-class Presentations | 04/23, 04/25, 04/28, 04/30 |
+| Final Report | Fri (05/09) by 11:59PM ET | 
 
 [Back to ToC](#table-of-contents)
 
