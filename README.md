@@ -283,10 +283,10 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 | Week | Date | Topic | Reading | Materials | Assignment |
 |:----|:-----|:------|:------|:------|:------|
-| 0 | 01/13/25 | Course Overview | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  | F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  |
-| 0 | 01/15/25 | Introduction to QSS |  |  |  |
-| 0 | 01/17/25 | Tutorial (Zoom) | [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) |  | PS0 |
-| 1 | 01/20/25 | No Class |  |  |  |
+| 0 | 01/13/25 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | 
+                 M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | 
+                 M: <br /> W: <br /> F: <br /> |
+                 M: <br /> W: <br /> F: PSet 0 <br /> |
 | 1 | 01/22/25 | Causality: Randomized Experiments | QSS 2.1-2.4 |  |  |
 | 1 | 01/24/25 |  |  |  |  |
 | 2 | 01/27/25 | Causality: Observational Studies | QSS 2.5-2.6 |  |  |
