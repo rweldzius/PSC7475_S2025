@@ -275,15 +275,15 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [5](#week-5) | 02/17 | Prediction: Elections & Regression  | T: QSS Tutorial 5  |
 | [6](#week-6) | 02/24 | Prediction: Interactions & Nonlinearities | T: QSS Tutorial 6 <br /> F: Exam 1 |
 | [7](#week-7) | 03/03 | Spring Break |  |
-| [8](#week-8) | 03/10 | Probability: Basics  | T: QSS Tutorial 7  |
+| [8](#week-8) | 03/10 | Probability: Basics  | T: QSS Tutorial 7   <br /> W: Final project proposal|
 | [9](#week-9) | 03/17 | Probability: Random Variables & Large Samples  | T: QSS Tutorial 8 <br /> F: PSet 3  |
 | [10](#week-10) | 03/24 | Inference: Estimation  | T: QSS Tutorial 9  |
 | [11](#week-11) | 03/31 | Inference: Hypothesis Testing  | T: QSS Tutorial 10   |
 | [12](#week-12) | 04/07 | Inference: Uncertainty in Regression  | F: PSet 4  |
-| [13](#week-13) | 04/14 | Review & Wrap Up  |   |
+| [13](#week-13) | 04/14 | Review & Wrap Up  |  <br /> W: Final project draft  |
 | [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
-| [16](#week-16) | 05/05 | Final  due Friday (05/09) by 11:59PM ET |  |
+| [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET |  |
 
 ## Week 0
 
