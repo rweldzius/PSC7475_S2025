@@ -282,8 +282,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 | 2 | 01/27 <br /> 01/29 <br /> 01/31 | M: Causality: Observational Studies <br /> W: Discuss QSS Tutorial 2 <br /> F: Open | M: QSS 2.5-2.6 <br /> W: <br /> F:  | M: <br /> W: QSS Tutorial 2 <br /> F: PSet 1 due |
 | 3 | 02/03 <br /> 02/05 <br /> 02/07 | M: Measurement: Descriptive Statistics  <br /> W: Discuss PSet 1/QSS Tutorial 3  <br /> F: Open | M: QSS 3.1-3.3  <br /> W:  <br /> F:  | M: <br /> W: QSS Tutorial 3 <br /> F: PSet 2 posted | 
 | 4 | 02/10 <br /> 02/12 <br /> 02/12 | M: Measurement: Sampling & Bivariate Statistics <br /> W: Discuss QSS Tutorial 4  <br /> F: Open | M: QSS 3.4-3.6  <br /> W:   <br /> F: | M: <br /> W: QSS Tutorial 4 <br /> F: PSet 2 due | 
-| 5 | 02/17 <br /> 02/19 <br /> 02/21 | M: Prediction: Elections & Regression W: Discuss Pset 2/QSS T5  <br /> F: Open  | M: QSS 4.1-4.5 <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial 5 <br /> F: | 
-| 6 |  02/24 <br /> 02/26 <br /> 02/27 | M: Review W: Review  <br /> F: No Class  | M: Problem Sets <br /> W: <br /> F:  |  M: Exam 1 posted <br /> W: <br /> F: Exam 1 due | 
+| 5 | 02/17 <br /> 02/19 <br /> 02/21 | M: Prediction: Elections & Regression <br /> W: Discuss Pset 2/QSS T5  <br /> F: Open  | M: QSS 4.1-4.5 <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial 5 <br /> F: | 
+| 6 |  02/24 <br /> 02/26 <br /> 02/27 | M: Review <br /> W: Review  <br /> F: No Class  | M: Problem Sets <br /> W: <br /> F:  |  M: Exam 1 posted <br /> W: <br /> F: Exam 1 due | 
 | 7 | 03/03 | Spring Break |  |  |
 | 8 | 03/10 | Discovery: Text as Data | QSS 5.1 |  | 
 
