@@ -407,6 +407,7 @@ Include GIF "What are you doing here?"
 
 **Assignments**:
  * QSS Tutorial 7 due Tuesday (03/11) by 11:59PM ET
+ * Final Project proposal due Wednesday (03/12) by 11:59PM ET
  * Problem Set 3 posted
 
 [Back to schedule](#schedule)
@@ -479,6 +480,7 @@ Include GIF "What are you doing here?"
  * None. Come with looming questions
 
 **Assignments**:
+ * Final Project draft analysis due Wednesday (04/16) by 11:59PM ET
  * Exam 2 posted
 
 ## Week 14
