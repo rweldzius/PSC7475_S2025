@@ -289,7 +289,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [9](#week-9) | 03/17 | Probability: Random Variables & Large Samples  | T: QSS Tutorial 8 <br /> F: PSet 3  |
 | [10](#week-10) | 03/24 | Inference: Estimation  | T: QSS Tutorial 9  |
 | [11](#week-11) | 03/31 | Inference: Hypothesis Testing  | T: QSS Tutorial 10   |
-| [12](#week-12) | 04/07 | Inference: Uncertainty in Regression  | T: QSS Tutorial 11 <br /> F: PSet 4  |
+| [12](#week-12) | 04/07 | Inference: Uncertainty in Regression  | F: PSet 4  |
 | [13](#week-13) | 04/14 | Review & Wrap Up  |   |
 | [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
@@ -320,16 +320,208 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * M: No Class (MLK, Jr. Day)
  * W: QSS 2.1-2.4
- * F: 
 
 **Assignments**:
- * QSS Tutorial 1 due by Wednesday (01/22) by 12:00PM ET
+ * QSS Tutorial 1 due Tuesday (01/21) by 11:59PM ET
  * Problem Set 1 posted (due next week)
 
 [Back to schedule](#schedule)
 
+## Week 2
 
-[Back to ToC](#table-of-contents)
+**Topic**: Causality:  Observational Studies
+
+**Dates**: 01/27 - 01/31
+
+**Readings**:
+ * M: QSS 2.5-2.6
+
+**Assignments**:
+ * QSS Tutorial 2 due Tuesday (01/28) by 11:59PM ET
+ * Problem Set 1 due Friday (01/31) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
+## Week 3
+
+**Topic**: Measurement: Descriptive Statistics
+
+**Dates**: 02/03 - 02/07
+
+**Readings**:
+ * M: QSS 3.1-3.3
+
+**Assignments**:
+ * QSS Tutorial 3 due Tuesday (02/04) by 11:59PM ET
+ * Problem Set 2 posted
+
+[Back to schedule](#schedule)
+
+## Week 4
+
+**Topic**: Measurement: Sampling & Bivariate Statistics
+
+**Dates**: 02/10 - 02/14 💝
+
+**Readings**:
+ * M: QSS 3.4-3.6
+
+**Assignments**:
+ * QSS Tutorial 4 due Tuesday (02/11) by 11:59PM ET
+ * Problem Set 2 due Friday (02/14) by 11:59PM ET
+
+## Week 5
+
+**Topic**: Prediction: Elections & Regression
+
+**Dates**: 02/17 - 02/21
+
+**Readings**:
+ * M: QSS 4.1-4.2.6
+
+**Assignments**:
+ * QSS Tutorial 5 due Tuesday (02/18) by 11:59PM ET
+ * Exam 1 posted
+
+## Week 6
+
+**Topic**: Prediction: Interactions & Nonlinearities
+
+**Dates**: 02/24 - 02/28
+
+**Readings**:
+ * M: QSS 4.3
+
+**Assignments**:
+ * QSS Tutorial 6 due Tuesday (02/25) by 11:59PM ET
+ * Exam 1 due Friday (02/28) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
+## Week 7
+
+**Spring Break!**
+
+Include GIF "What are you doing here?"
+
+[Back to schedule](#schedule)
+
+## Week 8
+
+**Topic**: Probability: Basics
+
+**Dates**: 03/10 - 03/14
+
+**Readings**:
+ * M: QSS 6.1-6.2
+
+**Assignments**:
+ * QSS Tutorial 7 due Tuesday (03/11) by 11:59PM ET
+ * Problem Set 3 posted
+
+[Back to schedule](#schedule)
+
+## Week 9
+
+**Topic**: Probability: Random Variables & Large Samples
+
+**Dates**: 03/17 - 03/21
+
+**Readings**:
+ * M: QSS 6.3-6.4
+
+**Assignments**:
+ * QSS Tutorial 8 due Tuesday (03/18) by 11:59PM ET
+ * Problem Set 3 due by Friday (03/21) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
+## Week 10
+
+**Topic**: Inference: Estimation
+
+**Dates**: 03/24 - 03/28
+
+**Readings**:
+ * M: QSS 7.1
+
+**Assignments**:
+ * QSS Tutorial 9 due Tuesday (03/25) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
+## Week 11
+
+**Topic**: Inference: Hypothesis Testing
+
+**Dates**: 03/31 - 04/04
+
+**Readings**:
+ * M: QSS 7.2
+
+**Assignments**:
+ * QSS Tutorial 10 due Tuesday (04/01) by 11:59PM ET
+ * Problem Set 4 posted
+
+[Back to schedule](#schedule)
+
+## Week 12
+
+**Topic**: Inference: Uncertainty in Regression
+
+**Dates**: 04/07 - 04/11
+
+**Readings**:
+ * M: QSS 7.3
+
+**Assignments**:
+ * Problem Set 4 due Friday (04/11) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
+## Week 13
+
+**Topic**: Review & Wrap Up
+
+**Dates**: 04/14 - 04/18  (No class on Friday 04/18 for Easter Recess)
+
+**Readings**:
+ * None. Come with looming questions
+
+**Assignments**:
+ * Exam 2 posted
+
+## Week 14
+
+**Topic**: Class Presentations
+
+**Dates**: 04/21 - 04/25 (No class on Monday 04/21 for Easter Recess)
+
+**Assignments**:
+ * Exam 2 due Friday (04/25) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
+## Week 15
+
+**Topic**: Class Presentations
+
+**Dates**: 04/28 & 04/30
+
+**Assignments**:
+ * None
+
+## Week 16
+
+**Topic**: Final Projects Due
+
+**Dates**: 05/09
+
+**Assignments**:
+ * Final Project write-up due Friday (05/09) by 11:59PM ET
+
+[Back to schedule](#schedule)
+
 
 ## Helpful Resources
 
