@@ -174,15 +174,13 @@ The course will follow a basic flow each week, with small differences if a homew
 
 
 
-
-
-Villanova has an enterprise site license for Microsoft’s Copilot chat application, which is built off of Open A.I.  Copilot is available to all faculty, staff, and students [here](https://copilot.microsoft.com).
-
-
-
 [Back to ToC](#table-of-contents)
 
 ## Required Applications
+
+### R and RStudio
+
+Need to complete
 
 ### Blackboard
 
@@ -192,31 +190,22 @@ This is the course management software used at Villanova University to support c
 
 I have set up a Campuswire workspace for our use this semester to help us better communicate with each other. You will need to create an account and join our workspace by following [this link](https://campuswire.com/p/G45092D3C). The secret PIN can be found on the first announcement on Blackboard. You are encouraged to adopt these [Slack etiquette tips](https://slack.com/blog/collaboration/etiquette-tips-in-slack). Most likely, you will utilize a similar communication system at a future job, so use this time wisely as you adopt best practices. 
 
-Here is the list of channels you should see upon joining the Campuswire workspace:
+Here are the channels you should see upon joining the Campuswire workspace and that we will most often utilize:
 
-  * Class feed: A space to post questions and respond to other posts.
+  * Class feed: A space to post questions and respond to other posts. When leaving a post on the class feed, be sure to choose the appropriate category (e.g., PSet 1). 
 
   * #announcements: A space for all course announcements.
 
-  * #general: A space for you to share and discuss stories you've seen in the news or on social media that are relevant to our class.
-
-  * Calendar: Not used. See [Syllabus](#syllabus) below. 
-
-  * Files: Not used. See [Syllabus](#syllabus) below. 
-
-  * Grades: Not used. See Blackboard. 
 
 ### GitHub
 
-I have created a [GitHub](https://github.com/rweldzius/PSC4175_F2024/tree/main) repository to prepare and share all course-related content. This very syllabus is available as the repository's README and all links below are connected to the appropriate folders, sub-folders, and files in this repository.
+I have created a [GitHub](https://github.com/rweldzius/PSC4375_S2025/tree/main) repository to prepare and share all course-related content. This very syllabus is available as the repository's README and all links are connected to the appropriate folders, sub-folders, and files in this repository.
 
-You are expected to adopt the following workflow for this class:
+### Microsoft Copilot
 
-  1. Prior to each lecture, download the appropriate `.Rmd` file, open it in `RStudio`, and read through it. This is your primary homework assignment (ungraded). As you work through it, try to tweak some of the code and answer the toy examples where provided. Each time you make a change, click the knit button in `RStudio` to see if everything still loads.
+Villanova has an enterprise site license for Microsoft’s Copilot chat application, which is built off of Open A.I.  Copilot is available to all faculty, staff, and students [here](https://copilot.microsoft.com).
 
-  2. During each lecture, create a new `.Rmd` file to take notes in. As with the homework, you should be tweaking and adjusting things on your own, extending your learning beyond what is covered in lecture.
 
-  3. After each lecture, tweak the notes `.Rmd` file further to test out new ideas that you come up with which were not covered in class. Each lecture's slides will be made available as `PDF` for you use to help you review. Thinking creatively about how to modify and extend what we do together might mean you already guess some of the exam questions!
 
 [Back to ToC](#table-of-contents)
 
