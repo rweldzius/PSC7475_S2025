@@ -276,7 +276,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 ## Schedule
 
 | Week | Date | Topic | Assignment Due |
-|:----|:-----|:------|:------|:------|
+|:----|:-----|:------|:------|
 | [0](#week-0) | 01/13 | Introduction to QSS | F: PSet 0 |
 | [1](#week-1) | 01/20 | Causality: Randomized Experiments | T: QSS Tutorial 1 |
 | [2](#week-2) | 01/27 | Causality:  Observational Studies | T: QSS Tutorial 2 <br /> F: PSet 1  |
