@@ -10,7 +10,7 @@
   * [Homeworks](#homeworks)
   * [Problem Sets](#problem-sets)
   * [Exams](#exams)
-  * [Final Project](#final-project)
+  * [Final ](#final-)
   * [Flow of the Course](#flow-of-the-course)
   * [Required Applications](#required-applications)
   * [Evaluation & Responsibilities](#evaluation-&-responsibilities)
@@ -37,7 +37,7 @@ In this course, you will be expected to
  * complete four problem sets,
  * complete ten weekly tutorials,
  * take two take-home, open-book exams, and
- * write one final data analysis project.
+ * write one final data analysis .
 
 ## Course Objectives
 
@@ -57,7 +57,7 @@ Most students will take PSC1900, which provides a general overview of research m
 
 We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed a Problem Set 0 to guide you through installing R, RStudio, and git to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
 
-No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis project.
+No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis .
 
 [Back to ToC](#table-of-contents)
 
@@ -72,7 +72,7 @@ Here are how each portion of course contributes to the overall grade:
 | R Tutorials | 10% |
 | Four Problem Sets | 40% |
 | Exams | 30% |
-| Final Project | 20% |
+| Final  | 20% |
 
 You will use Blackboard for submission of the various assignments throughout the semester. 
 
@@ -130,8 +130,8 @@ There will be two take-home exams during the course. These exams will be similar
 
 | Exam | Release Date | Due Date | 
 |:-----|:-----|:-----|
-| Exam 1 | Fri, Jan 24th 12:00pm ET | Fri, Jan 31st 11:59pm ET|
-| Exam 2 | Fri, Jan 24th 12:00pm ET | Fri, Jan 31st 11:59pm ET|
+| Exam 1 | Fri (02/21) 12:00pm ET | Fri (02/28) 11:59pm ET|
+| Exam 2 | Fri (04/18) 12:00pm ET | Fri (04/25) 11:59pm ET|
 
 [Back to ToC](#table-of-contents)
 
@@ -141,9 +141,9 @@ The final project for the course will be a data analysis project where students 
 
 | Milestone | Due Date | 
 |:-----|:-----|
-| Proposal | W: 04/12 |
+| Proposal | Wed 03/12 |
 | Draft Analyses & Presentations | 04/16 | 
-| Final Report |  | 
+| Final Report | 05/09 | 
 
 [Back to ToC](#table-of-contents)
 
@@ -293,7 +293,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [13](#week-13) | 04/14 | Review & Wrap Up  |   |
 | [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
-| [16](#week-16) | 05/05 | Final Project due Friday (05/09) by 11:59PM ET |  |
+| [16](#week-16) | 05/05 | Final  due Friday (05/09) by 11:59PM ET |  |
 
 ## Week 0
 
@@ -513,12 +513,12 @@ Include GIF "What are you doing here?"
 
 ## Week 16
 
-**Topic**: Final Projects Due
+**Topic**: Final s Due
 
 **Dates**: 05/09
 
 **Assignments**:
- * Final Project write-up due Friday (05/09) by 11:59PM ET
+ * Final  write-up due Friday (05/09) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
