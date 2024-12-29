@@ -307,6 +307,21 @@ Villanova University makes every reasonable effort to allow members of the commu
 | 15 | 04/28/25 | Review & Wrap-up  |  |  |  |
 |  | 05/05/25 | Final exam due by 11:59PM |  |  |  |
 
+## Week 0
+
+**Topic**: Course overview and introduction
+**Readings**:
+ * M: Syllabus
+ * W: QSS 1.1-1.4
+ * F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/)
+**Assignments**:
+ * Problem Set 0 due Friday (01/17) by 11:59PM ET
+
+
+| 0 | 01/13 <br /> 01/15 <br /> 01/17 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F: PSet 0 due |
+
+
+
 [Back to ToC](#table-of-contents)
 
 ## Helpful Resources
