@@ -280,7 +280,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [10](#week-10) | 03/24 | Inference: Estimation  | T: QSS Tutorial 9  |
 | [11](#week-11) | 03/31 | Inference: Hypothesis Testing  | T: QSS Tutorial 10   |
 | [12](#week-12) | 04/07 | Inference: Uncertainty in Regression  | F: PSet 4  |
-| [13](#week-13) | 04/14 | Review & Wrap Up  |  <br /> W: Final project draft  |
+| [13](#week-13) | 04/14 | Review & Wrap Up  | W: Final project draft  |
 | [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET |  |
