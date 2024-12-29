@@ -275,16 +275,13 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Schedule
 
-| Week | Date | Topic | Reading | Materials | Assignment |
-|:----|:-----|:------|:------|:------|:------|
-| 0 | 01/13 <br /> 01/15 <br /> 01/17 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F:  | M: <br /> W: <br /> F: PSet 0 due |
-| 1 | 01/20 <br /> 01/22 <br /> 01/24 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Open | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: <br /> F:  | M: <br /> W: QSS Tutorial 1 <br /> F: PSet 1 posted  |
-| 2 | 01/27 <br /> 01/29 <br /> 01/31 | M: Causality: Observational Studies <br /> W:  <br /> F: Open | M: QSS 2.5-2.6 <br /> W: <br /> F:  |  M: <br /> W: <br /> F: | M: <br /> W: <br /> F: PSet 1 due |
-
-| 3 | 02/03/25 | Measurement: Descriptive Statistics | QSS 3.1-3.3 |  |  |
-| 3 | 02/05/25 |  |  |  |  |
-| 3 | 02/07/25 | Tutorial |  |  |  |
-| 4 | 02/10/25 | Measurement: Sampling & Bivariate Statistics | QSS 3.4-3.6 |  |  |
+| Week | Date | Topic | Reading | Assignment |
+|:----|:-----|:------|:------|:------|
+| 0 | 01/13 <br /> 01/15 <br /> 01/17 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F: PSet 0 due |
+| 1 | 01/20 <br /> 01/22 <br /> 01/24 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Open | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: QSS Tutorial 1 <br /> F: PSet 1 posted  |
+| 2 | 01/27 <br /> 01/29 <br /> 01/31 | M: Causality: Observational Studies <br /> W: Discuss QSS Tutorial 2 <br /> F: Open | M: QSS 2.5-2.6 <br /> W: <br /> F:  | M: <br /> W: <br /> F: PSet 1 due |
+| 3 | 02/03 <br /> 02/05 <br /> 02/07 | M: Measurement: Descriptive Statistics  <br /> W: Discuss PSet 1/QSS Tutorial 3  <br /> F: Open | M: QSS 3.1-3.3  <br /> W:  <br /> F:  | M: <br /> W: <br /> F: PSet 2 posted | 
+| 4 | 02/10 <br /> 02/12 <br /> 02/12 | M: Measurement: Sampling & Bivariate Statistics <br /> W: Discuss QSS Tutorial 3  <br /> F: Open | QSS 3.4-3.6 |  |  |
 | 4 | 02/12/25 |  |  |  |  |
 | 4 | 02/14/25 | Tutorial |  |  | PS2 |
 | 5 | 02/17/25 | Prediction: Elections & Regression | QSS 4.1-4.2 |  |  |
