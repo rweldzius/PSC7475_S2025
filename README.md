@@ -275,8 +275,12 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Schedule
 
-| Week | Date | Topic | Reading | Assignment |
+| Week | Date | Topic | Assignment Due |
 |:----|:-----|:------|:------|:------|
+| [0](#week-0) | 01/13 | Introduction to QSS | F: PSet 0 |
+| [1](#week-1) | 01/20 | Causality: Randomized Experiments | T: QSS Tutorial 1 |
+| [2](#week-2) | 01/27 | Causality:  Observational Studies | T: QSS Tutorial 2 <br /> F: PSet 1  |
+
 | 0 | 01/13 <br /> 01/15 <br /> 01/17 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F: PSet 0 due |
 | 1 | 01/20 <br /> 01/22 <br /> 01/24 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Open | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: QSS Tutorial 1 <br /> F: PSet 1 posted  |
 | 2 | 01/27 <br /> 01/29 <br /> 01/31 | M: Causality: Observational Studies <br /> W: Discuss QSS Tutorial 2 <br /> F: Open | M: QSS 2.5-2.6 <br /> W: <br /> F:  | M: <br /> W: QSS Tutorial 2 <br /> F: PSet 1 due |
@@ -321,6 +325,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Assignments**:
  * Problem Set 0 due Friday (01/17) by 11:59PM ET
 
+[Back to schedule](#schedule)
+
 ## Week 1
 
 **Topic**: Causality: Randomized Experiments
@@ -336,7 +342,7 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS Tutorial 1 due by Wednesday (01/22) by 12:00PM ET
  * Problem Set 1 posted (due next week)
 
-
+[Back to schedule](#schedule)
 
 
 [Back to ToC](#table-of-contents)
