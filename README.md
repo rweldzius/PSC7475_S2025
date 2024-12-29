@@ -141,9 +141,9 @@ The final project for the course will be a data analysis project where students 
 
 | Milestone | Due Date | 
 |:-----|:-----|
-| Proposal | |
-| Draft Analyses & Presentations | | 
-| Final Report | | 
+| Proposal | W: 04/12 |
+| Draft Analyses & Presentations | 04/16 | 
+| Final Report |  | 
 
 [Back to ToC](#table-of-contents)
 
@@ -280,6 +280,21 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [0](#week-0) | 01/13 | Introduction to QSS | F: PSet 0 |
 | [1](#week-1) | 01/20 | Causality: Randomized Experiments | T: QSS Tutorial 1 |
 | [2](#week-2) | 01/27 | Causality:  Observational Studies | T: QSS Tutorial 2 <br /> F: PSet 1  |
+| [3](#week-3) | 02/03 | Measurement: Descriptive Statistics  | T: QSS Tutorial 3  |
+| [4](#week-4) | 02/10 | Measurement: Sampling & Bivariate Statistics | T: QSS Tutorial 4 <br /> F: PSet 2 |
+| [5](#week-5) | 02/17 | Prediction: Elections & Regression  | T: QSS Tutorial 5  |
+| [6](#week-6) | 02/24 | Prediction: Interactions & Nonlinearities | T: QSS Tutorial 6 <br /> F: Exam 1 |
+| [7](#week-7) | 03/03 | Spring Break |  |
+| [8](#week-8) | 03/10 | Probability: Basics  | T: QSS Tutorial 7  |
+| [9](#week-9) | 03/17 | Probability: Random Variables & Large Samples  | T: QSS Tutorial 8 <br /> F: PSet 3  |
+| [10](#week-10) | 03/24 | Inference: Estimation  | T: QSS Tutorial 9  |
+| [11](#week-11) | 03/31 | Inference: Hypothesis Testing  | T: QSS Tutorial 10   |
+| [12](#week-12) | 04/07 | Inference: Uncertainty in Regression  | T: QSS Tutorial 11 <br /> F: PSet 4  |
+| [13](#week-13) | 04/14 | Review & Wrap Up  |   |
+| [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
+| [15](#week-15) | 04/28 | Class Presentations  |  |
+| [16](#week-16) | 05/05 | Final Project due Friday (05/09) by 11:59PM ET |  |
+
 
 | 0 | 01/13 <br /> 01/15 <br /> 01/17 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F: PSet 0 due |
 | 1 | 01/20 <br /> 01/22 <br /> 01/24 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Open | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: QSS Tutorial 1 <br /> F: PSet 1 posted  |
