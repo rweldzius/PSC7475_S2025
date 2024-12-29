@@ -295,37 +295,6 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final Project due Friday (05/09) by 11:59PM ET |  |
 
-
-| 0 | 01/13 <br /> 01/15 <br /> 01/17 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F: PSet 0 due |
-| 1 | 01/20 <br /> 01/22 <br /> 01/24 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Open | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: QSS Tutorial 1 <br /> F: PSet 1 posted  |
-| 2 | 01/27 <br /> 01/29 <br /> 01/31 | M: Causality: Observational Studies <br /> W: Discuss QSS Tutorial 2 <br /> F: Open | M: QSS 2.5-2.6 <br /> W: <br /> F:  | M: <br /> W: QSS Tutorial 2 <br /> F: PSet 1 due |
-| 3 | 02/03 <br /> 02/05 <br /> 02/07 | M: Measurement: Descriptive Statistics  <br /> W: Discuss PSet 1/QSS Tutorial 3  <br /> F: Open | M: QSS 3.1-3.3  <br /> W:  <br /> F:  | M: <br /> W: QSS Tutorial 3 <br /> F: PSet 2 posted | 
-| 4 | 02/10 <br /> 02/12 <br /> 02/12 | M: Measurement: Sampling & Bivariate Statistics <br /> W: Discuss QSS Tutorial 4  <br /> F: Open | M: QSS 3.4-3.6  <br /> W:   <br /> F: | M: <br /> W: QSS Tutorial 4 <br /> F: PSet 2 due | 
-| 5 | 02/17 <br /> 02/19 <br /> 02/21 | M: Prediction: Elections & Regression <br /> W: Discuss Pset 2/QSS T5  <br /> F: Open  | M: QSS 4.1-4.2.6 <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial 5 <br /> F: | 
-| 6 |  02/24 <br /> 02/26 <br /> 02/27 | M: Review <br /> W: No Class (work on exam)  <br /> F: No Class  (work on exam) | M: Problem Sets <br /> W: <br /> F:  |  M: Exam 1 posted <br /> W: <br /> F: Exam 1 due | 
-| 7 | 03/03 | Spring Break |  |  |
-| 8 |  03/10 <br />  03/12 <br />  03/14 | M: Prediction: Interactions & Nonlinearities <br /> W: Discuss Exam 1/QSS T6  <br /> F: Open  | M: QSS 4.1-4.5 <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial 5 <br /> F: | 
-| 8 |  03/17 <br />  03/19 <br />  03/21 | M:  <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
-| 9 |  03/24 <br />  03/26 <br />  03/28 | M:  <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
-| 10 |  03/31 <br />  04/02 <br />  04/04 | M:  <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
-| 11 |  04/07 <br />  04/09 <br />  04/11 | M:  <br /> W: Discuss QSS T <br /> F: No Class  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
-| 12 |  04/14 <br />  04/16 <br />  04/18 | M:  <br /> W: Discuss QSS T <br /> F: No Class (Easter Recess)  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
-| 14 |  04/21 <br />  04/22 <br />  04/24 | M: No Class (Easter Recess) <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
-| 15 |  04/28 <br />  04/30 | M:  <br /> W: Discuss QSS T   | M: <br /> W:  |  M: <br /> W: QSS Tutorial | 
-
-| 8 | 03/10 | Discovery: Text as Data | QSS 5.1 |  | 
-| 9 | 03/17/25 | Discovery: Network & Spatial Data | QSS 5.2-5.4 |  |  |
-| 9 | 03/21/25 | Tutorial |  |  | PS3 |
-| 10 | 03/24/25 | Probability: Basics | QSS 6.1-6.2 |  |  |
-| 11 | 03/31/25 | Probability: Random Variables & Large Samples | QSS 6.3-6.5 |  |  |
-| 11 | 04/04/25 | Tutorial |  |  | PS4 |
-| 12 | 04/07/25 | Inference: Estimation | QSS 7.1 |  |  |
-| 13 | 04/14/25 | Inference: Hypothesis Testing | QSS 7.2 |  |  |
-| 14 | 04/23/25 | Inference: Uncertainty in Regression | QSS 7.3 |  |  |
-| 14 | 04/25/25 |  |  |  | PS5 |
-| 15 | 04/28/25 | Review & Wrap-up  |  |  |  |
-|  | 05/05/25 | Final exam due by 11:59PM |  |  |  |
-
 ## Week 0
 
 **Topic**: Course overview and introduction
