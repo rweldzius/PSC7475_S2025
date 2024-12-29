@@ -69,12 +69,12 @@ Here are how each portion of course contributes to the overall grade:
 
 | Category | Percent of final grade | 
 |:-----|:-----:|
-| R Homeworks | 10% |
+| R Tutorials | 10% |
 | Four Problem Sets | 40% |
 | Exams | 30% |
 | Final Project | 20% |
 
-You will use  for submission of the various assignments throughout the semester. 
+You will use Blackboard for submission of the various assignments throughout the semester. 
 
 **Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
 
@@ -97,11 +97,11 @@ Letter grades are determined as per the standard Villanova grading system:
 
 [Back to ToC](#table-of-contents)
 
-## Homeworks
+## Tutorials
 
-I will assign short weekly homeworks to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in RStudio. While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Wednesdays at 11:59pm ET.
+I will assign short weekly tutorials to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in RStudio. While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Wednesdays by 12:00pm ET.
 
-At the beginning of the term, these homeoworks will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
+At the beginning of the term, these tutorials will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
 
 [Back to ToC](#table-of-contents)
 
@@ -151,17 +151,11 @@ The final project for the course will be a data analysis project where students 
 
 The course will follow a basic flow each week, with small differences if a homework or problem set is due or not.
 
- * Monday: Lecture
- * Tuesday: Homework due
- * Wednesday: Discuss homework in class
- * Thursday: Work on problem set (if due)
- * Friday: R Tutorial (like extra office hours)
+ * Monday: Lecture 
+ * Wednesday: Discuss tutorial and/or problem set, as well as any loose ends from Monday
+ * Friday: Open. Will change weekly; pay attention to CampusWire for updates.
 
 [Back to ToC](#table-of-contents)
-
-
-
-
 
 
 
@@ -284,8 +278,10 @@ Villanova University makes every reasonable effort to allow members of the commu
 | Week | Date | Topic | Reading | Materials | Assignment |
 |:----|:-----|:------|:------|:------|:------|
 | 0 | 01/13/25 <br /> 01/15/25 <br /> 01/17/25 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F:  | M: <br /> W: <br /> F: PSet 0 due |
-| 1 | 01/20/25 <br /> 01/22/25 <br /> 01/24/25 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Tutorial | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: <br /> F:  | M: <br /> W: <br /> F: PSet 1 posted  |
+| 1 | 01/20/25 <br /> 01/22/25 <br /> 01/24/25 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Tutorial | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: <br /> F:  | M: <br /> W: QSS Tutorial 1 due <br /> F: PSet 1 posted  |
+
 | 2 | 01/27/25 <br /> 01/29/25 <br /> 01/31/25 | M: Causality: Observational Studies <br /> W:  <br /> F: Tutorial | M: QSS 2.5-2.6 <br /> W: <br /> F:  |  M: <br /> W: <br /> F: | M: <br /> W: <br /> F: PSet 1 due |
+
 | 3 | 02/03/25 | Measurement: Descriptive Statistics | QSS 3.1-3.3 |  |  |
 | 3 | 02/05/25 |  |  |  |  |
 | 3 | 02/07/25 | Tutorial |  |  |  |
