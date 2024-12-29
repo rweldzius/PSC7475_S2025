@@ -311,17 +311,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Topic**: Course overview and introduction
 
-**Readings**:
- * M (01/13): Syllabus
- * W (01/15): QSS 1.1-1.4
- * F (01/17): [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/)
-
-**Assignments**:
- * Problem Set 0 due Friday (01/17) by 11:59PM ET
-
-## Week 1
-
-**Topic**: Course overview and introduction
+**Dates**: 01/13 - 01/17
 
 **Readings**:
  * M: Syllabus
@@ -331,6 +321,20 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Assignments**:
  * Problem Set 0 due Friday (01/17) by 11:59PM ET
 
+## Week 1
+
+**Topic**: Causality: Randomized Experiments
+
+**Dates**: 01/20 - 01/24
+
+**Readings**:
+ * M: No Class (MLK, Jr. Day)
+ * W: QSS 2.1-2.4
+ * F: 
+
+**Assignments**:
+ * QSS Tutorial 1 due by Wednesday (01/22) by 12:00PM ET
+ * Problem Set 1 posted (due next week)
 
 
 
