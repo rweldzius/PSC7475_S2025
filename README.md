@@ -286,31 +286,25 @@ Villanova University makes every reasonable effort to allow members of the commu
 | 6 |  02/24 <br /> 02/26 <br /> 02/27 | M: Review <br /> W: No Class (work on exam)  <br /> F: No Class  (work on exam) | M: Problem Sets <br /> W: <br /> F:  |  M: Exam 1 posted <br /> W: <br /> F: Exam 1 due | 
 | 7 | 03/03 | Spring Break |  |  |
 | 8 |  03/10 <br />  03/12 <br />  03/14 | M: Prediction: Interactions & Nonlinearities <br /> W: Discuss Exam 1/QSS T6  <br /> F: Open  | M: QSS 4.1-4.5 <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial 5 <br /> F: | 
+| 8 |  03/17 <br />  03/19 <br />  03/21 | M:  <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
+| 9 |  03/24 <br />  03/26 <br />  03/28 | M:  <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
+| 10 |  03/31 <br />  04/02 <br />  04/04 | M:  <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
+| 11 |  04/07 <br />  04/09 <br />  04/11 | M:  <br /> W: Discuss QSS T <br /> F: No Class  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
+| 12 |  04/14 <br />  04/16 <br />  04/18 | M:  <br /> W: Discuss QSS T <br /> F: No Class (Easter Recess)  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
+| 14 |  04/21 <br />  04/22 <br />  04/24 | M: No Class (Easter Recess) <br /> W: Discuss QSS T <br /> F: Open  | M: <br /> W: <br /> F:  |  M: <br /> W: QSS Tutorial <br /> F: | 
+| 15 |  04/28 <br />  04/30 | M:  <br /> W: Discuss QSS T   | M: <br /> W:  |  M: <br /> W: QSS Tutorial | 
 
 | 8 | 03/10 | Discovery: Text as Data | QSS 5.1 |  | 
-
-| 8 | 03/12/25 |  |  |  |  |
-| 8 | 03/14/25 | Tutorial |  |  |  |
 | 9 | 03/17/25 | Discovery: Network & Spatial Data | QSS 5.2-5.4 |  |  |
-| 9 | 03/19/25 |  |  |  |  |
 | 9 | 03/21/25 | Tutorial |  |  | PS3 |
 | 10 | 03/24/25 | Probability: Basics | QSS 6.1-6.2 |  |  |
-| 10 | 03/26/25 |  |  |  |  |
-| 10 | 03/28/25 | Tutorial |  |  |  |
 | 11 | 03/31/25 | Probability: Random Variables & Large Samples | QSS 6.3-6.5 |  |  |
-| 11 | 04/02/25 |  |  |  |  |
 | 11 | 04/04/25 | Tutorial |  |  | PS4 |
 | 12 | 04/07/25 | Inference: Estimation | QSS 7.1 |  |  |
-| 12 | 04/09/25 |  |  |  |  |
-| 12 | 04/11/25 | No Class |  |  |  |
 | 13 | 04/14/25 | Inference: Hypothesis Testing | QSS 7.2 |  |  |
-| 13 | 04/16/25 |  |  |  |  |
-| 13 | 04/18/25 | No Class (Easter Recess) |  |  |  |
-| 14 | 04/21/25 | No Class (Easter Recess) |  |  |  |
 | 14 | 04/23/25 | Inference: Uncertainty in Regression | QSS 7.3 |  |  |
 | 14 | 04/25/25 |  |  |  | PS5 |
 | 15 | 04/28/25 | Review & Wrap-up  |  |  |  |
-| 15 | 04/30/25 |  |  |  |  |
 |  | 05/05/25 | Final exam due by 11:59PM |  |  |  |
 
 [Back to ToC](#table-of-contents)
