@@ -10,7 +10,7 @@
   * [Tutorials](#tutorials)
   * [Problem Sets](#problem-sets)
   * [Exams](#exams)
-  * [Final ](#final-)
+  * [Final Project](#final-project)
   * [Flow of the Course](#flow-of-the-course)
   * [Required Applications](#required-applications)
   * [Evaluation & Responsibilities](#evaluation-&-responsibilities)
