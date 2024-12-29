@@ -283,12 +283,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 | Week | Date | Topic | Reading | Materials | Assignment |
 |:----|:-----|:------|:------|:------|:------|
-| 0 | 01/13/25 <br /> 01/15/25 <br /> 01/17/25 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F: <br /> | M: <br /> W: <br /> F: PSet 0 <br /> |
-| 1 | 01/20/25 <br /> 01/22/25 <br /> 01/24/25 | M: No class <br /> W: Causality: Randomized Experiments <br /> F: Tutorial | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: <br /> F: <br /> | M: <br /> W: <br /> F: <br /> |
-| 1 | 01/24/25 |  |  |  |  |
-| 2 | 01/27/25 | Causality: Observational Studies | QSS 2.5-2.6 |  |  |
-| 2 | 01/29/25 |  |  |  |  |
-| 2 | 01/31/25 | Tutorial |  |  | PS1 |
+| 0 | 01/13/25 <br /> 01/15/25 <br /> 01/17/25 | M: Course Overview <br /> W: Introduction to QSS <br /> F: Tutorial | M: Syllabus <br /> W: QSS 1.1-1.4 <br />  F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/) | M: <br /> W: <br /> F:  | M: <br /> W: <br /> F: PSet 0 due |
+| 1 | 01/20/25 <br /> 01/22/25 <br /> 01/24/25 | M: No class (MLK, Jr. Day) <br /> W: Causality: Randomized Experiments <br /> F: Tutorial | M: <br /> W: QSS 2.1-2.4 <br /> F: | M: <br /> W: <br /> F:  | M: <br /> W: <br /> F: PSet 1 posted  |
+| 2 | 01/27/25 <br /> 01/29/25 <br /> 01/31/25 | M: Causality: Observational Studies <br /> W:  <br /> F: Tutorial | M: QSS 2.5-2.6 <br /> W: <br /> F:  |  M: <br /> W: <br /> F: | M: <br /> W: <br /> F: PSet 1 due |
 | 3 | 02/03/25 | Measurement: Descriptive Statistics | QSS 3.1-3.3 |  |  |
 | 3 | 02/05/25 |  |  |  |  |
 | 3 | 02/07/25 | Tutorial |  |  |  |
