@@ -183,9 +183,9 @@ I have set up a Campuswire workspace for our use this semester to help us better
 
 Here are the channels you should see upon joining the Campuswire workspace and that we will most often utilize:
 
-  * Class feed: A space to post questions and respond to other posts. When leaving a post on the class feed, be sure to choose the appropriate category (e.g., PSet 1). 
-
-  * #announcements: A space for all course announcements.
+  * Class feed: A space to post questions and respond to other posts. When leaving a post on the class feed, be sure to choose the appropriate category (e.g., Problem Set 1). 
+  * #announcements: a space for all course announcements from Prof. Weldzius
+  * #class-chat: a space for students to engage in conversation
 
 
 ### GitHub
