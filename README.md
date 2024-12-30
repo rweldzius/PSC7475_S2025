@@ -274,6 +274,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET |  |
 
+[Back to ToC](#table-of-contents)
+
 ## Week 0
 
 **Topic**: Course overview and introduction
