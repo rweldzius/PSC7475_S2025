@@ -173,16 +173,17 @@ The course will follow a basic flow each week, with small differences if a homew
 
 See pp. 8-9 in QSS for directions on how to download R and RStudio. More details follow:
 
- 1 Download and install the most recent version of [R](https://cloud.r-project.org/). There are versions available for the Windows, Mac, and Linux operating systems. On a Windows machine, you will want to install using the `R-x.y.z-win.exe` file where `x.y.z` is a version number. On a Mac, you will want to install using the `R-x.y.z.pkg` file that is notarized and signed.
- 2 With R installed, download and install [RStudio](https://rstudio.com/). RStudio is a type of "integrated development environment" or IDE designed for R. It makes working with R considerably easier and is available for most platforms. It is also free.
- 3 Install the packages we will use throughout the semester. To do this, either type or copy and paste each of the following lines of code into the "Console" in RStudio (lower left panel by default). Make sure you do this separately for each line. If you are asked if you want to install any packages from source, type "no". Note that the symbols next to `my_package` are a less than sign `<` followed by a minus sign `-` with no space between them.
+ 1. Download and install the most recent version of [R](https://cloud.r-project.org/). There are versions available for the Windows, Mac, and Linux operating systems. On a Windows machine, you will want to install using the `R-x.y.z-win.exe` file where `x.y.z` is a version number. On a Mac, you will want to install using the `R-x.y.z.pkg` file that is notarized and signed.
+ 2. With R installed, download and install [RStudio](https://rstudio.com/). RStudio is a type of "integrated development environment" or IDE designed for R. It makes working with R considerably easier and is available for most platforms. It is also free.
+ 3. Install the packages we will use throughout the semester. To do this, either type or copy and paste each of the following lines of code into the "Console" in RStudio (lower left panel by default). Make sure you do this separately for each line. If you are asked if you want to install any packages from source, type "no". Note that the symbols next to `my_package` are a less than sign `<` followed by a minus sign `-` with no space between them.
 
 ```
 my_packages <- c("tidyverse", "usethis", "devtools", "learnr", "tinytex")
 install.packages(my_packages, repos = "http://cran.rstudio.com")
 remotes::install_github("kosukeimai/qss-package", build_vignettes = TRUE)
 ```
- 4 For some things in the course, we'll need produce PDFs from R and that requires something called LaTeX. If you've never heard of that, it's completely fine and you should just run the following two lines of R code:
+ 
+ 4. For some things in the course, we'll need produce PDFs from R and that requires something called LaTeX. If you've never heard of that, it's completely fine and you should just run the following two lines of R code:
 
 ```
 install.packages('tinytex')
