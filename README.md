@@ -13,7 +13,6 @@
   * [Final Project](#final-project)
   * [Flow of the Course](#flow-of-the-course)
   * [Required Applications](#required-applications)
-  * [Evaluation & Responsibilities](#evaluation-&-responsibilities)
   * [Course Policies](#course-policies)
   * [Office Hours](#office-hours)
   * [Schedule](#schedule)
