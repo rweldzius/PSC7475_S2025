@@ -218,9 +218,7 @@ Every problem set and exam is assigned on a Friday and due on Blackboard by **11
 
 ### Cell Phones, Laptops, Tablets, etc.
 
-You are expected to bring your laptop to class in order to work through the `.Rmd` file during the lecture. These `.Rmd` files will be posted to the GitHub repository at least 24 hours prior to the lecture. Students are encouraged to download these files and work through them prior to class.
-
-You are asked to silence your cell phone / tablet / smart watch before class begins.
+You are expected to bring your laptop to class in order to take notes and work through the problems along with Prof. Weldzius. You are asked to silence your cell phone / tablet / smart watch before class begins.
 
 ### Academic Honor Code
 
