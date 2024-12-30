@@ -24,9 +24,9 @@
 
 How does class size affect educational outcomes? What changes individuals' attitudes on gay marriage?  What is the best way to predict election outcomes? What drives the onset of civil wars? Social scientists have tackled these questions (and numerous others!) using quantitative data and...**quantitative methods**. This course will equip students with essential analytical tools for conducting similar social science research, including causal inference, measurement techniques, and prediction models. Mastery of these methods is crucial for understanding complex social phenomena, enabling students to produce robust, reliable research and make informed decisions in their respective fields.
 
-Beyond academia, leaders in government, private firms, and non-profits continue to invest heavily in data scientists to learn about their clients, users, and platforms. Data scientists at these institutions are essentially applied social scientists and employ many of the same techniques you will learn in this course.
+Beyond academia, leaders in government, private firms, and non-profits continue to invest heavily in data scientists to learn about their clients, users, and platforms. Data scientists employed at these respective institutions are essentially applied social scientists and utilize many of the same methods you will learn in this course.
 
-So, you might be asking yourself, how is this course different from PSC 4175 "Intro to Data Science" or ECON 3137 "Intro to Econometrics" or STAT 1230 "Intro to Statistics"? Great question. There is surely plenty of overlap. In the latter two classes, you might receive more attention to the mathematics that underpin the theory. In the former (taught by Prof. Weldzius), the focus is more on predictive models of data science. In this class, you will still receive ample treatment of theory and classes on prediction, but it will always be applied to social science research. Moreover, you will learn to code in the open-source program `R`, providing another skillset for the post-graduate job market. 
+So, you might be asking yourself, how is this course different from PSC 4175 "Intro to Data Science" or ECON 3137 "Intro to Econometrics" or STAT 1230 "Intro to Statistics"? Great question! There is certainly plenty of overlap. In the latter two courses, you might receive more attention to the mathematics that underpin the theory. In the former (taught by Prof. Weldzius), the focus is more on predictive models of data science. Similar to these courses, in this course you will some treatment of theory and prediction; but along the way we will apply the lessons directly to social science research. If you learned one of the theories or methods in a previous course, use this time to perfect your understanding or dig deeper into its treatment in social science research.
 
 **Class time and location**: M/W/F 12:50-13:40 in Bartley Hall 032.
 
@@ -49,17 +49,17 @@ In this course, you will learn to:
  * Summarize and visualize data
  * Be able to use linear regression to analyze data
  * Understand uncertainty in data analysis and how to quantify it
- * Use professional tools for data analysis such as R, RStudio, git, and GitHub
+ * Use professional tools for data analysis such as R and RStudio
 
 [Back to ToC](#table-of-contents)
 
 ## Prerequisites 
 
-Most students will take PSC1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (e.g., AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
+Most students will take PSC 1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (e.g., AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
 
-We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed a Problem Set 0 to guide you through installing R, RStudio, and git to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
+We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed Problem Set 0 to guide you through installing R and RStudio to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
 
-No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis .
+No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis project.
 
 [Back to ToC](#table-of-contents)
 
@@ -67,7 +67,7 @@ No matter your background, you should be prepared to engage the class material o
 
 You (the student) and I (the instructor) should care the most about what you learn, not what numerical/letter summary of that learning you get at the end of the semester. So I would love to not have grades at all, but unfortunately we humans are very good at procrastinating on our good intentions when there is no incentive not to. Thus, we have grades to help solve this commitment problem and to encourage you to put effort into learning the course material.
 
-Here are how each portion of course contributes to the overall grade:
+Here is how each portion of the course contributes to the overall grade:
 
 | Category | Percent of final grade | 
 |:-----|:-----:|
@@ -78,7 +78,7 @@ Here are how each portion of course contributes to the overall grade:
 
 You will use Blackboard for submission of the various assignments throughout the semester. 
 
-**Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
+**Bump-up policy**: I reserve the right to “bump up” the grades of students who have made valuable contributions to the course in the lecture, tutorials, and/or discussion/CampusWire. This also applies to students who show tremendous progress and growth over the semester.
 
 Letter grades are determined as per the standard Villanova grading system:
 
@@ -101,7 +101,7 @@ Letter grades are determined as per the standard Villanova grading system:
 
 ## Tutorials
 
-I will assign short weekly tutorials to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in RStudio. While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Tuesdays by 11:59PM ET. Late submissions will be marked as incomplete; no exceptions.
+I will assign short weekly tutorials to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in RStudio. While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Tuesdays by 11:59PM ET. Late submissions will be marked as incomplete; **no exceptions**.
 
 At the beginning of the term, these tutorials will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
 
@@ -122,6 +122,8 @@ The schedule for the problem sets will be:
 | PSet 3 | Regression | Fri (03/14) 12:00PM ET  | Fri (03/21) 11:59PM ET |
 | PSet 4 | Inference | Fri (04/04) 12:00PM ET | Fri (04/11) 11:59PM ET |
 
+**Late submissions**: For each day your submission is late, your score will drop by one entire letter grade. After three days you will receive a zero. There will be no exceptions. You have one week to complete the problem set so do not wait until the last minute to begin. 
+
 **Grace policy**: When calculating the final problem set portion of the overall grade, I will drop the lowest of the four scores and use the remaining scores. Thus, if you have an emergency that forces you to miss one problem set, your grade will not be severely affected.
 
 [Back to ToC](#table-of-contents)
@@ -134,6 +136,8 @@ There will be two take-home exams during the course. These exams will be similar
 |:-----|:-----|:-----|
 | Exam 1 | Fri (02/21) 12:00pm ET | Fri (02/28) 11:59pm ET|
 | Exam 2 | Fri (04/18) 12:00pm ET | Fri (04/25) 11:59pm ET|
+
+**Late submissions**: For each day your submission is late, your score will drop by one entire letter grade. After three days you will receive a zero. There will be no exceptions.
 
 [Back to ToC](#table-of-contents)
 
@@ -148,33 +152,18 @@ The final project for the course will be a data analysis project where students 
 | In-class Presentations | 04/23, 04/25, 04/28, 04/30 |
 | Final Report | Fri (05/09) by 11:59PM ET | 
 
+**Late submissions**: For each day your submission is late, your score will drop by one entire letter grade. After three days you will receive a zero. There will be no exceptions.
+
 [Back to ToC](#table-of-contents)
 
 ## Flow of the Course
 
 The course will follow a basic flow each week, with small differences if a homework or problem set is due or not.
 
- * Monday: Lecture 
+ * Monday: Lecture
+ * Tuesday: Complete R tutorial
  * Wednesday: Discuss tutorial and/or problem set, as well as any loose ends from Monday
- * Friday: Open. Will change weekly; pay attention to CampusWire for updates.
-
-[Back to ToC](#table-of-contents)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ * Friday: Open. Will change weekly; pay attention to CampusWire for updates. Exams/Problem Sets due on Fridays.
 
 [Back to ToC](#table-of-contents)
 
