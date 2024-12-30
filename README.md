@@ -351,6 +351,8 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS Tutorial 4 due Tuesday (02/11) by 11:59PM ET
  * Problem Set 2 due Friday (02/14) by 11:59PM ET
 
+[Back to schedule](#schedule)
+
 ## Week 5
 
 **Topic**: Prediction: Elections & Regression
@@ -363,6 +365,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Assignments**:
  * QSS Tutorial 5 due Tuesday (02/18) by 11:59PM ET
  * Exam 1 posted
+
+[Back to schedule](#schedule)
 
 ## Week 6
 
@@ -474,6 +478,8 @@ Include GIF "What are you doing here?"
  * Final Project draft analysis due Wednesday (04/16) by 11:59PM ET
  * Exam 2 posted
 
+[Back to schedule](#schedule)
+
 ## Week 14
 
 **Topic**: Class Presentations
@@ -493,6 +499,8 @@ Include GIF "What are you doing here?"
 
 **Assignments**:
  * None
+
+[Back to schedule](#schedule)
 
 ## Week 16
 
