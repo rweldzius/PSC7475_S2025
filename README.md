@@ -22,7 +22,7 @@
     
 ## Course Description
 
-How does class size affect educational outcomes? What changes individuals' attitudes on gay marriage?  What is the best way to predict election outcomes? What drives the onset of civil wars? Social scientists have tackled these questions (and numerous others!) with quantitative data. This course will equip students with essential analytical tools for conducting similar social science research, including causal inference, measurement techniques, and prediction models. Mastery of these methods is crucial for understanding complex social phenomena, enabling students to produce robust, reliable research and make informed decisions in their respective fields.
+How does class size affect educational outcomes? What changes individuals' attitudes on gay marriage?  What is the best way to predict election outcomes? What drives the onset of civil wars? Social scientists have tackled these questions (and numerous others!) using quantitative data and...**quantitative methods**. This course will equip students with essential analytical tools for conducting similar social science research, including causal inference, measurement techniques, and prediction models. Mastery of these methods is crucial for understanding complex social phenomena, enabling students to produce robust, reliable research and make informed decisions in their respective fields.
 
 Beyond academia, private firms and non-profits continue to invest heavily in data scientists to learn about their clients, users, and platforms. Data scientists at these institutions are essentially applied social scientists and employ many of the same techniques you will learn in this course.
 
