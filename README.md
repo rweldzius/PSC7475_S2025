@@ -272,7 +272,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [13](#week-13) | 04/14 | Review & Wrap Up  | W: Final project draft  |
 | [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
-| [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET |  |
+| [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project  |
 
 [Back to ToC](#table-of-contents)
 
