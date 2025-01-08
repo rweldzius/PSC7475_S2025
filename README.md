@@ -264,7 +264,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Office Hours
 
-  * Wednesdays 2-4pm in SAC 257 (also Friday class meetings will serve as additional office hours)
+  * Wednesdays 2-4pm in SAC 257
   * You must make an appointment for Wednesday office hours here: https://calendly.com/weldzius/officehours
 
 [Back to ToC](#table-of-contents)
