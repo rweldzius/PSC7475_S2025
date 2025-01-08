@@ -1,4 +1,4 @@
-# PSC 4375-01: Quantitative Social Science (Spring 2025)
+# PSC 7475-01: Quantitative Social Science (Spring 2025)
 
 ## Table of Contents
 
