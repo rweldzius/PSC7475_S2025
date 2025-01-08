@@ -25,10 +25,7 @@ How does class size affect educational outcomes? What changes individuals' attit
 
 Beyond academia, leaders in government, private firms, and non-profits continue to invest heavily in data scientists to learn about their clients, users, and platforms. Data scientists employed at these respective institutions are essentially applied social scientists and utilize many of the same methods you will learn in this course.
 
-So, you might be asking yourself, how is this course different from PSC 4175 "Intro to Data Science" or ECON 3137 "Intro to Econometrics" or STAT 1230 "Intro to Statistics"? Great question! There is certainly plenty of overlap. In the latter two courses, you might receive more attention to the mathematics that underpin the theory. In the former (taught by Prof. Weldzius), the focus is more on predictive models of data science. Similar to these courses, you will have some exposure to both theory and prediction; but throughout the course we will apply these methods to important research in the social sciences. If you learned one of these theories or methods in a previous course, use this time to perfect your understanding and seek new insights from its research applications.
-
-
-**Class time and location**: M/W/F 12:50-13:40 in Bartley Hall 032.
+**Class time and location**: W 17:20-19:20 in Bartley Hall 025.
 
 [Back to ToC](#table-of-contents)
 
@@ -39,7 +36,7 @@ In this course, you will be expected to
  * complete four problem sets,
  * complete ten weekly tutorials,
  * take two take-home, open-book exams, and
- * write one final data analysis .
+ * write one final data analysis.
 
 ## Course Objectives
 
@@ -55,11 +52,11 @@ In this course, you will learn to:
 
 ## Prerequisites 
 
-Most students will take PSC 1900, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (e.g., AP Statistics or similar) or a solid background in high-school level math should also be prepared for the course.
+Most students will have taken PSC7000, which provides a general overview of research methods in the social sciences, but probably little exposure to quantitative methods. Students with previous statistics exposure (e.g., Statistics) or a solid background in high-school level math should also be prepared for the course.
 
 We will assume a basic familiarity with high-school algebra and a working knowledge of computers. If you are unfamiliar with downloading and installing software programs on your Mac or PC, you may want to allocate additional time to make sure those aspects of the course go smoothly. In particular, I have developed Problem Set 0 to guide you through installing R and  to give you a sense of the tools we will be using. Previous experience with statistical methods and computing (Stata, R, SAS, SPSS) is helpful, but not required. You can always get in touch with me for additional help on these issues.
 
-No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a senior thesis project.
+No matter your background, you should be prepared to engage the class material on a regular, almost daily basis even beyond the time dedicated to assignments and exam review. Furthermore, you should feel comfortable with engaging in real-life data analysis using statistical software. I will guide you through that process, but it may be unfamiliar and therefore challenging. You should especially take this course if you plan to use quantitative data at all in a masters thesis project.
 
 [Back to ToC](#table-of-contents)
 
