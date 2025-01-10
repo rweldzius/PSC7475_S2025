@@ -157,10 +157,9 @@ The final project for the course will be a data analysis project where students 
 
 The course will follow a basic flow each week, with small differences if a homework or problem set is due or not.
 
- * Monday: Lecture
  * Tuesday: Complete R tutorial
- * Wednesday: Discuss tutorial and/or problem set, as well as any loose ends from Monday
- * Friday: Open. Will change weekly; pay attention to CampusWire for updates. Exams/Problem Sets due on Fridays.
+ * Wednesday: Lecture and discussion
+ * Friday: Exams/Problem Sets due on select Fridays.
 
 [Back to ToC](#table-of-contents)
 
@@ -442,7 +441,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 03/24 - 03/28
 
 **Readings**:
- * M: QSS 7.1
+ * QSS 7.1
 
 **Assignments**:
  * QSS Tutorial 9 due Tuesday (03/25) by 11:59PM ET
@@ -456,7 +455,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 03/31 - 04/04
 
 **Readings**:
- * M: QSS 7.2
+ * QSS 7.2
 
 **Assignments**:
  * QSS Tutorial 10 due Tuesday (04/01) by 11:59PM ET
@@ -471,7 +470,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 04/07 - 04/11
 
 **Readings**:
- * M: QSS 7.3
+ * QSS 7.3
 
 **Assignments**:
  * Problem Set 4 due Friday (04/11) by 11:59PM ET
@@ -482,7 +481,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Topic**: Review & Wrap Up
 
-**Dates**: 04/14 - 04/18  (No class on Friday 04/18 for Easter Recess)
+**Dates**: 04/14 - 04/18 
 
 **Readings**:
  * None. Come with looming questions
@@ -495,9 +494,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Week 14
 
-**Topic**: Class Presentations
+**Topic**: TBD
 
-**Dates**: 04/21 - 04/25 (No class on Monday 04/21 for Easter Recess)
+**Dates**: 04/21 - 04/25
 
 **Assignments**:
  * Exam 2 due Friday (04/25) by 11:59PM ET
@@ -508,7 +507,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Topic**: Class Presentations
 
-**Dates**: 04/28 & 04/30
+**Dates**: 04/30
 
 **Assignments**:
  * None
