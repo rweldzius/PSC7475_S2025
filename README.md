@@ -71,7 +71,7 @@ Here is how each portion of the course contributes to the overall grade:
 | R Tutorials | 10% |
 | Four Problem Sets | 40% |
 | Exams | 30% |
-| Final  | 20% |
+| Final Project | 20% |
 
 You will use Blackboard for submission of the various assignments throughout the semester. 
 
@@ -146,7 +146,7 @@ The final project for the course will be a data analysis project where students 
 |:-----|:-----|
 | Proposal | Wed (03/12) by 11:59PM ET |
 | Draft Analyses | Wed (04/16) by 11:59PM ET |
-| In-class Presentations | 04/23, 04/25, 04/28, 04/30 |
+| In-class presentations | 04/30 |
 | Final Report | Fri (05/09) by 11:59PM ET | 
 
 **Late submissions**: For each day your submission is late, your score will drop by one entire letter grade. After three days you will receive a zero. There will be no exceptions.
@@ -204,7 +204,7 @@ Here are the channels you should see upon joining the Campuswire workspace and t
 
 ### GitHub
 
-I have created a [GitHub](https://github.com/rweldzius/PSC4375_S2025/tree/main) repository to prepare and share all course-related content. This very syllabus is available as the repository's README and all links are connected to the appropriate folders, sub-folders, and files in this repository.
+I have created a [GitHub](https://github.com/rweldzius/PSC7475_S2025/tree/main) repository to prepare and share all course-related content. This very syllabus is available as the repository's README and all links are connected to the appropriate folders, sub-folders, and files in this repository.
 
 ### Microsoft Copilot
 
@@ -297,9 +297,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 01/13 - 01/17
 
 **Readings**:
- * M: Syllabus
- * W: QSS 1.1-1.4
- * F: [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/)
+ * Syllabus
+ * QSS 1.1-1.4
+ * [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/)
 
 **Assignments**:
  * Problem Set 0 due Friday (01/17) by 11:59PM ET
@@ -313,8 +313,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 01/20 - 01/24
 
 **Readings**:
- * M: No Class (MLK, Jr. Day)
- * W: QSS 2.1-2.4
+ * QSS 2.1-2.4
 
 **Assignments**:
  * QSS Tutorial 1 due Tuesday (01/21) by 11:59PM ET
@@ -329,7 +328,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 01/27 - 01/31
 
 **Readings**:
- * M: QSS 2.5-2.6
+ * QSS 2.5-2.6
 
 **Assignments**:
  * QSS Tutorial 2 due Tuesday (01/28) by 11:59PM ET
@@ -344,7 +343,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 02/03 - 02/07
 
 **Readings**:
- * M: QSS 3.1-3.3
+ * QSS 3.1-3.3
 
 **Assignments**:
  * QSS Tutorial 3 due Tuesday (02/04) by 11:59PM ET
@@ -359,7 +358,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 02/10 - 02/14 💝
 
 **Readings**:
- * M: QSS 3.4-3.6
+ * QSS 3.4-3.6
 
 **Assignments**:
  * QSS Tutorial 4 due Tuesday (02/11) by 11:59PM ET
@@ -374,7 +373,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 02/17 - 02/21
 
 **Readings**:
- * M: QSS 4.1-4.2.6
+ * QSS 4.1-4.2.6
 
 **Assignments**:
  * QSS Tutorial 5 due Tuesday (02/18) by 11:59PM ET
@@ -389,7 +388,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 02/24 - 02/28
 
 **Readings**:
- * M: QSS 4.3
+ * QSS 4.3
 
 **Assignments**:
  * QSS Tutorial 6 due Tuesday (02/25) by 11:59PM ET
