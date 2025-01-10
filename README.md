@@ -400,7 +400,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Spring Break!**
 
-Include GIF "What are you doing here?"
+<img src="./lectures/figs/springbreak.gif" width="30%" height="30%"/>
 
 [Back to schedule](#schedule)
 
@@ -411,7 +411,7 @@ Include GIF "What are you doing here?"
 **Dates**: 03/10 - 03/14
 
 **Readings**:
- * M: QSS 6.1-6.2
+ * QSS 6.1-6.2
 
 **Assignments**:
  * QSS Tutorial 7 due Tuesday (03/11) by 11:59PM ET
@@ -427,7 +427,7 @@ Include GIF "What are you doing here?"
 **Dates**: 03/17 - 03/21
 
 **Readings**:
- * M: QSS 6.3-6.4
+ * QSS 6.3-6.4
 
 **Assignments**:
  * QSS Tutorial 8 due Tuesday (03/18) by 11:59PM ET
