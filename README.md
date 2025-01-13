@@ -36,7 +36,7 @@ In this course, you will be expected to
  * complete four problem sets,
  * complete ten weekly tutorials,
  * take two take-home, open-book exams, and
- * write one final data analysis.
+ * write one final data analysis project.
 
 ## Course Objectives
 
@@ -46,7 +46,7 @@ In this course, you will learn to:
  * Summarize and visualize data
  * Be able to use linear regression to analyze data
  * Understand uncertainty in data analysis and how to quantify it
- * Use professional tools for data analysis such as R and 
+ * Use professional tools for data analysis such as R and RStudio
 
 [Back to ToC](#table-of-contents)
 
@@ -101,6 +101,8 @@ Letter grades are determined as per the standard Villanova grading system:
 I will assign short weekly tutorials to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in . While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Tuesdays by 11:59PM ET. Late submissions will be marked as incomplete; **no exceptions**.
 
 At the beginning of the term, these tutorials will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
+
+Use [these instructions](https://rweldzius.github.io/PSC7475_S2025/tutorials/psc7475_tutorial_setup.html) for getting the tutorials setup in RStudio. 
 
 [Back to ToC](#table-of-contents)
 
@@ -192,7 +194,7 @@ This is the course management software used at Villanova University to support c
 
 ### Campuswire
 
-I have set up a Campuswire workspace for our use this semester to help us better communicate with each other. You will need to create an account and join our workspace by following [this link]([https://campuswire.com/p/G45092D3C](https://campuswire.com/p/GD7AC473D). The secret PIN can be found on the first announcement on Blackboard. You are encouraged to adopt these [Slack etiquette tips](https://slack.com/blog/collaboration/etiquette-tips-in-slack). Most likely, you will utilize a similar communication system at a future job, so use this time wisely as you adopt best practices. 
+I have set up a Campuswire workspace for our use this semester to help us better communicate with each other. You will need to create an account and join our workspace by following [this link](https://campuswire.com/p/GE4AF4734). The secret PIN can be found on the first announcement on Blackboard. You are encouraged to adopt these [Slack etiquette tips](https://slack.com/blog/collaboration/etiquette-tips-in-slack). Most likely, you will utilize a similar communication system at a future job, so use this time wisely as you adopt best practices. 
 
 Here are the channels you should see upon joining the Campuswire workspace and that we will most often utilize:
 
@@ -208,8 +210,6 @@ I have created a [GitHub](https://github.com/rweldzius/PSC7475_S2025/tree/main) 
 ### Microsoft Copilot
 
 Villanova has an enterprise site license for Microsoft’s Copilot chat application, which is built off of Open A.I.  Copilot is available to all faculty, staff, and students [here](https://copilot.microsoft.com).
-
-
 
 [Back to ToC](#table-of-contents)
 
@@ -269,7 +269,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 | Week | Date | Topic | Assignment Due |
 |:----|:-----|:------|:------|
-| [0](#week-0) | 01/13 | Introduction to QSS | F: PSet 0 |
+| [0](#week-0) | 01/13 | Introduction to QSS | F: [PSet 0](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset0.Rmd) |
 | [1](#week-1) | 01/20 | Causality: Randomized Experiments | T: QSS Tutorial 1 |
 | [2](#week-2) | 01/27 | Causality:  Observational Studies | T: QSS Tutorial 2 <br /> F: PSet 1  |
 | [3](#week-3) | 02/03 | Measurement: Descriptive Statistics  | T: QSS Tutorial 3  |
@@ -301,7 +301,7 @@ Villanova University makes every reasonable effort to allow members of the commu
  * [R Markdown, 2.1-2.6](https://bookdown.org/yihui/rmarkdown/)
 
 **Assignments**:
- * Problem Set 0 due Friday (01/17) by 11:59PM ET
+ * [Problem Set 0](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset0.Rmd) due Friday (01/17) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
