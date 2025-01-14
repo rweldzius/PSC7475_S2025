@@ -25,6 +25,8 @@ How does class size affect educational outcomes? What changes individuals' attit
 
 Beyond academia, leaders in government, private firms, and non-profits continue to invest heavily in data scientists to learn about their clients, users, and platforms. Data scientists employed at these respective institutions are essentially applied social scientists and utilize many of the same methods you will learn in this course.
 
+**Required Book**: Imai, Kosuke and Nora Webb Williams. 2022. *Quantitative Social Science: An Introduction in Tidyverse.* Princeton University Press. 
+
 **Class time and location**: W 17:20-19:20 in Bartley Hall 025.
 
 [Back to ToC](#table-of-contents)
