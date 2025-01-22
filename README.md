@@ -316,6 +316,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * QSS 2.1-2.4
 
+**Lectures**:
+ * [Lecture 1](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_1_slides_handout.pdf)
+
 **Assignments**:
  * QSS Tutorial 1 due Tuesday (01/21) by 11:59PM ET
  * Problem Set 1 posted (due next week)
