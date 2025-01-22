@@ -3,7 +3,7 @@ title: "PSC7475: Introduction to Causality"
 subtitle: "Lecture 1"
 author: "Prof. Weldzius"
 institute: "Villanova University"
-date: "Slides Updated: `r Sys.Date()`"
+date: "Slides Updated: 2025-01-22"
 output:
   beamer_presentation:
     theme: "CambridgeUS"
@@ -12,25 +12,9 @@ output:
 ---
 
 
-```{css,echo = F}
-.small .remark-code { /*Change made here*/
-  font-size: 85% !important;
-}
-.tiny .remark-code { /*Change made here*/
-  font-size: 50% !important;
-}
-```
 
-```{r,include=F}
-set.seed(123)
-options(width=60)
-knitr::opts_chunk$set(fig.align='center',fig.width=9,fig.height=5,message=F,warning=F)
-def.chunk.hook  <- knitr::knit_hooks$get("chunk")
-knitr::knit_hooks$set(chunk = function(x, options) {
-  x <- def.chunk.hook(x, options)
-  ifelse(options$size != "normalsize", paste0("\n \\", options$size,"\n\n", x, "\n\n \\normalsize"), x)
-})
-```
+
+
 
 # What is causal effect?
 
