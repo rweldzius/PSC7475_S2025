@@ -102,6 +102,8 @@ Letter grades are determined as per the standard Villanova grading system:
 
 I will assign short weekly tutorials to assess your knowledge of the material covered in the reading and lectures that week. You will complete these in . While you are expected to complete them on time, they will be graded based on completion not on how correct the answers are. They will be due Tuesdays by 11:59PM ET. Late submissions will be marked as incomplete; **no exceptions**.
 
+**NOTE**: For tutorials 1-6 you should scroll down and find the "QSS Tidyverse Tutorial" version. For tutorials 7-10, you can use the "QSS Tutorial" version.  
+
 At the beginning of the term, these tutorials will focus on getting up to speed in R and over the course of the term, they will focus more on the theoretical aspects of data analysis.
 
 Use [these instructions](https://rweldzius.github.io/PSC7475_S2025/tutorials/psc7475_tutorial_setup.html) for getting the tutorials setup in RStudio. 
