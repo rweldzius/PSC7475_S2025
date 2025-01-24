@@ -273,7 +273,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 |:----|:-----|:------|:------|
 | [0](#week-0) | 01/13 | Introduction to QSS | F: [PSet 0](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset0.Rmd) |
 | [1](#week-1) | 01/20 | Causality: Randomized Experiments | T: QSS Tutorial 1 |
-| [2](#week-2) | 01/27 | Causality:  Observational Studies | T: QSS Tutorial 2 <br /> F: PSet 1  |
+| [2](#week-2) | 01/27 | Causality:  Observational Studies | T: QSS Tutorial 2 <br /> F: [PSet 1](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset1.Rmd)  |
 | [3](#week-3) | 02/03 | Measurement: Descriptive Statistics  | T: QSS Tutorial 3  |
 | [4](#week-4) | 02/10 | Measurement: Sampling & Bivariate Statistics | T: QSS Tutorial 4 <br /> F: PSet 2 |
 | [5](#week-5) | 02/17 | Prediction: Elections & Regression  | T: QSS Tutorial 5  |
@@ -321,7 +321,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * QSS Tutorial 1 due Tuesday (01/21) by 11:59PM ET
- * Problem Set 1 posted (due next week)
+ * [Problem Set 1](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset1.Rmd) posted (due next week)
 
 [Back to schedule](#schedule)
 
@@ -335,8 +335,8 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS 2.5-2.6
 
 **Assignments**:
- * QSS Tutorial 2 due Tuesday (01/28) by 11:59PM ET
- * Problem Set 1 due Friday (01/31) by 11:59PM ET
+ * QSS Tidyverse Tutorial 2 due Tuesday (01/28) by 11:59PM ET
+ * [Problem Set 1](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset1.Rmd) due Friday (01/31) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
@@ -350,7 +350,7 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS 3.1-3.3
 
 **Assignments**:
- * QSS Tutorial 3 due Tuesday (02/04) by 11:59PM ET
+ * QSS Tidyverse Tutorial 3 due Tuesday (02/04) by 11:59PM ET
  * Problem Set 2 posted
 
 [Back to schedule](#schedule)
@@ -365,7 +365,7 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS 3.4-3.6
 
 **Assignments**:
- * QSS Tutorial 4 due Tuesday (02/11) by 11:59PM ET
+ * QSS Tidyverse Tutorial 4 due Tuesday (02/11) by 11:59PM ET
  * Problem Set 2 due Friday (02/14) by 11:59PM ET
 
 [Back to schedule](#schedule)
@@ -380,7 +380,7 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS 4.1-4.2.6
 
 **Assignments**:
- * QSS Tutorial 5 due Tuesday (02/18) by 11:59PM ET
+ * QSS Tidyverse Tutorial 5 due Tuesday (02/18) by 11:59PM ET
  * Exam 1 posted
 
 [Back to schedule](#schedule)
@@ -395,7 +395,7 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS 4.3
 
 **Assignments**:
- * QSS Tutorial 6 due Tuesday (02/25) by 11:59PM ET
+ * QSS Tidyverse Tutorial 6 due Tuesday (02/25) by 11:59PM ET
  * Exam 1 due Friday (02/28) by 11:59PM ET
 
 [Back to schedule](#schedule)
