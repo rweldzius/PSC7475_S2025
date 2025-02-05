@@ -352,6 +352,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * QSS 3.1-3.3
 
+**Lecture**: [Lecture 3](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_3_slides_handout.pdf)
+
 **Assignments**:
  * QSS Tidyverse Tutorial 3 due Tuesday (02/04) by 11:59PM ET
  * Problem Set 2 posted
@@ -365,7 +367,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 02/10 - 02/14 💝
 
 **Readings**:
- * QSS 3.4-3.6
+ * QSS 3.4-3.8
 
 **Assignments**:
  * QSS Tidyverse Tutorial 4 due Tuesday (02/11) by 11:59PM ET
