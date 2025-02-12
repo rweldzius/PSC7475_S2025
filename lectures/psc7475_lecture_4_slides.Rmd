@@ -1,0 +1,707 @@
+---
+title: "Visualizing Distributions & Missing Data"
+subtitle: "PSC7475: Week 4"
+author: "Prof. Weldzius"
+institute: "Villanova University"
+date: "Slides Updated: `r Sys.Date()`"
+output:
+  beamer_presentation:
+    theme: "CambridgeUS"
+    colortheme: "seahorse"
+    fonttheme: "structurebold"
+---
+
+```{css,echo = F}
+.small .remark-code { /*Change made here*/
+  font-size: 85% !important;
+}
+.tiny .remark-code { /*Change made here*/
+  font-size: 50% !important;
+}
+```
+
+```{r,include=F}
+set.seed(123)
+options(width=60)
+knitr::opts_chunk$set(fig.align='center',fig.width=9,fig.height=5,message=F,warning=F)
+def.chunk.hook  <- knitr::knit_hooks$get("chunk")
+knitr::knit_hooks$set(chunk = function(x, options) {
+  x <- def.chunk.hook(x, options)
+  ifelse(options$size != "normalsize", paste0("\n \\", options$size,"\n\n", x, "\n\n \\normalsize"), x)
+})
+```
+
+---    
+
+# Concepts and measurement
+ \pause
+ 
+  - Social science is about understanding **causal relationships** \pause 
+    - Does minimum wage change levels of employment \pause
+    - Does outgroup contact influence views on immigration? \pause
+  
+  - Relationships are between **concepts**: \pause
+    - Minimum wage, unemployment, outgroup contact, views on immigration \pause
+    - We took these for granted when talking about causality \pause
+    
+  - Important to consider how we **measure** these concepts \pause
+    - Some straightforward: what is your age? \pause
+    - Others more complicated: what does it mean to "be liberal"? \pause
+    - **Operational definition**: mapping of concept to numbers in our data
+    
+---
+
+# Example
+ \pause
+ 
+  - Concept: presidential approval  \pause
+  - Conceptual definition:  \pause
+    - Extent to which US adults support the actions and policies of the current US president \pause
+    
+  - Operational definition: \pause
+    - "On a scale from 1 to 5, where 1 is least supportive and 5 is most supportive, how much would you say you support the job that Donald Trump is doing as president?"
+    
+---
+
+# Measurement error
+ \pause
+ 
+  - **Measurement error**: chance variation in our measurements \pause
+    - individual measurement = exact value + chance error \pause
+    - chance errors tend to cancel out when we take averages \pause
+    
+  - No matter how careful we are, chance error can always affect a measurement. \pause
+    - Panel study of 19,000 respondents: 20 reported being a citizen in 2010 and then a non-citizen in 2012 \pause
+    - Data entry errors \pause
+    
+  - **Bias**: systematic errors for all units in the same direction. \pause
+    - individual measurement = exact value + bias + chance error \pause
+    - "What did you eat yesterday?" $\rightsquigarrow$ underreporting
+    
+---
+
+# A biased poll?
+
+\begin{center}
+\includegraphics[width=.5\textwidth]{figs/poll_biased.png}
+\end{center}  
+
+---
+
+# 1936 Literary Digest Poll
+
+\begin{center}
+\includegraphics[width=.45\textwidth]{figs/litdig_poll.png}
+\end{center}  
+
+ \pause
+ 
+  - Literary Digest predicted elections using mail-in polls \pause
+  - Source of addresses: automobile registrations, phone books, etc. \pause
+  - In 1936, sent out 10 million ballots, over 2.3 million returned \pause
+  - George Gallup used only 50,000 respondents \pause
+  
+  \begin{center}
+  \begin{tabular}{l | r}
+  & FDR's vote share \\ \hline
+  Literary Digest & 43 \\
+  George Gallup & 56 \\ \hline
+  \end{tabular}
+  \end{center}
+  
+---
+
+# Poll fail
+
+\begin{columns}
+  \begin{column}{0.5\textwidth}
+    \includegraphics[width=.9\textwidth]{figs/litdig_mistake.png}
+  \end{column} 
+  \begin{column}{0.5\textwidth}
+      \begin{tabular}{l r}
+      & FDR \% \\ \hline
+      Literary Digest & 43 \\
+      George Gallup & 56 \\ \hline
+      Actual Outcome & 62 \\ 
+    \end{tabular} 
+  \end{column}
+\end{columns}
+ \pause
+ 
+  - **Selection bias**: ballots skewed toward the wealthy (with cars, phones)  \pause
+    - Only 1 in 4 households had a phone in 1936 \pause
+    
+  - **Nonresponse bias**: respondents differ from nonrespondents \pause
+    - $\rightsquigarrow$ when selection procedure is biased, adding more units won't help!  \pause
+    
+---
+
+# 1948 Election
+
+\includegraphics[width=1\textwidth]{figs/truman.png}
+
+---
+
+# The Polling Disaster
+
+\begin{center}
+\begin{tabular}{l r r r r}
+& Truman & Dewey & Thurmond & Wallace \\ \hline
+Crossley & 45 & 50 & 2 & 3 \\
+Gallup & 44 & 50 & 2 & 4 \\
+Roper & 38 & 53 & 5 & 4 \\ \hline
+Actual Outcome & 50 & 45 & 3 & 2
+\end{tabular}
+\end{center}
+ \pause
+ 
+  - **Quota sampling**: fixed quota of certain respondents for each interviewer \pause
+    - If Black women make up 5% of the population, stop interviewing them once they make up 5% of your sample \pause
+    
+  - Sample resembles the population on these characteristics \pause
+  - Potential unobserbed confounding $\rightsquigarrow$ **selection bias** \pause
+  - Republicans easier to find within quotas (phones, listed addresses)
+  
+---
+
+# Sample surveys
+ \pause
+ 
+  - **Probability sampling** to ensure representativeness \pause
+    - Definition: every unit in the population has a known, non-zero probability of being selected into sample \pause
+    
+  - **Simple random sampling**: every unit has an equal selection probability. \pause
+  
+  - Random digit dialing: \pause
+    - Take a particular area code + exchange: 310-495-XXXX. \pause
+    - Randomly choose each digit in XXXX to call a particular phone \pause
+    - Every phone in the US has an equal chance of being included in sample
+    
+---
+
+# Sampling lingo
+ \pause
+ 
+  - **Target population**: set of people we want to learn about \pause
+    - Example: people who will vote in the next election \pause
+    
+  - **Sampling frame**: list of people from which we will actually sample \pause
+    - Frame bias: list of registered voters (frame) might include nonvoters! \pause
+    
+  - **Sample**: set of people contacted \pause
+  
+  - **Respondents**: subset of sample that acutally responds to the survey \pause
+    - Unit non-response: sample $\neq$ respondents \pause
+    - Not everyone picks up their phone \pause
+    
+  - **Completed items**: subset of questions that respondents answer \pause
+    - Item non-response: refusing to disclose their vote preference
+  
+---
+
+# Difficulties of sampling
+ \pause
+ 
+  - Problems of telephone survey \pause
+    - Cell phones (double countring for the wealthy) \pause
+    - Caller ID screening (unit non-response) \pause
+    - Response rates down to 9% \pause
+    
+  - An alternative: internet surveys \pause
+    - Opt-in panels, respondent-driven sampling $\rightsquigarrow$ **non-probability sampling** \pause
+    - Cheaper, but non-representative \pause
+    - Digital divide: rich vs. poor, young vs. old \pause
+    - Correct for potential sampling bias via stastical methods  
+
+---
+
+# Effect of assasination attempts 
+
+\pause 
+\footnotesize
+```{r}
+library(tidyverse)
+data(leaders, package = "qss")
+head(leaders[,1:7])
+```
+
+---
+
+# Contingency tables
+
+\pause 
+
+  - With two categorical variables, we can create **contingency tables** \pause 
+    - Also known as **cross-tabs** \pause 
+    - Rows are the values of one variable, columns the other \pause 
+
+\small     
+```{r}
+leaders %>%
+  group_by(civilwarbefore,civilwarafter) %>%
+  count() %>%
+  spread(civilwarafter, n)
+```
+\normalsize 
+
+  - Quick summary how the two variables "go together" 
+
+---
+
+# Cross-tabs with proportions
+
+```{r}
+leaders %>%
+  group_by(civilwarbefore,civilwarafter) %>%
+  count() %>%
+  ungroup() %>%
+  mutate(prop = n/ sum(n)) %>%
+  select(-n) %>%
+  spread(civilwarafter, prop, drop = T)
+```
+
+---
+
+# Cross-tabs with proportions (by row)
+
+```{r}
+leaders %>%
+  group_by(civilwarbefore,civilwarafter) %>%
+  count() %>%
+  ungroup() %>%
+  group_by(civilwarbefore) %>%
+  mutate(prop = n/ sum(n)) %>%
+  select(-n) %>%
+  spread(civilwarafter, prop, drop = T)
+```
+
+---
+
+# Scatterplot
+
+```{r, echo=F, fig.width=4, fig.height=3}
+leaders %>%
+  ggplot(aes(x = politybefore, y = polityafter)) +
+  geom_point(shape = 21) +
+  labs(title = "Democracy before/after assasination attempts",
+       x = "Democracy Level (Before)",
+       y = "Democracy Level (After)") +
+  theme_bw() +
+  theme(plot.title = element_text(size=12))
+```
+
+---
+
+# Scatterplot
+
+  - Each point on the scatterplot $(x_i, y_i)$
+  - Use `geom_point()` function in `ggplot`
+  
+```{r, echo=T, fig.show='hide'}
+leaders %>%
+  ggplot(aes(x = politybefore, y = polityafter)) +
+  geom_point(shape = 21) +
+  labs(title = "Democracy before/after assasination attempts",
+       x = "Democracy Level (Before)",
+       y = "Democracy Level (After)") +
+  theme_bw() +
+  theme(plot.title = element_text(size=12))
+```
+
+---
+
+# Scatterplot
+
+\footnotesize
+```{r, echo=T}
+leaders[1, c("politybefore","polityafter")]
+```
+
+
+```{r, echo=F, fig.width=3, fig.height=2}
+leaders %>%
+  ggplot(aes(x = politybefore, y = polityafter)) +
+  geom_point(shape = 21, alpha=0) +
+  geom_point(data = leaders[1, ], aes(x = politybefore, y = polityafter), color = "red", shape = 21) +
+  labs(title = "Democracy before/after assasination attempts",
+       x = "Democracy Level (Before)",
+       y = "Democracy Level (After)") +
+  theme_bw() +
+  theme(plot.title = element_text(size=8),
+        axis.title.x = element_text(size=7),
+        axis.title.y = element_text(size=7))
+```
+
+---
+
+# Scatterplot
+
+\footnotesize
+```{r, echo=T}
+leaders[2, c("politybefore","polityafter")]
+```
+
+
+```{r, echo=F, fig.width=3, fig.height=2}
+leaders %>%
+  ggplot(aes(x = politybefore, y = polityafter)) +
+  geom_point(shape = 21, alpha=0) +
+  geom_point(data = leaders[1, ], aes(x = politybefore, y = polityafter), shape = 21) +
+    geom_point(data = leaders[2, ], aes(x = politybefore, y = polityafter), color = "red", shape = 21) +
+  labs(title = "Democracy before/after assasination attempts",
+       x = "Democracy Level (Before)",
+       y = "Democracy Level (After)") +
+  theme_bw() +
+  theme(plot.title = element_text(size=8),
+        axis.title.x = element_text(size=7),
+        axis.title.y = element_text(size=7))
+```
+
+---
+
+# Scatterplot
+
+\footnotesize
+```{r, echo=T}
+leaders[3, c("politybefore","polityafter")]
+```
+
+
+```{r, echo=F, fig.width=3, fig.height=2}
+leaders %>%
+  ggplot(aes(x = politybefore, y = polityafter)) +
+  geom_point(shape = 21, alpha=0) +
+  geom_point(data = leaders[1, ], aes(x = politybefore, y = polityafter), shape = 21) +
+  geom_point(data = leaders[2, ], aes(x = politybefore, y = polityafter), shape = 21) +
+  geom_point(data = leaders[3, ], aes(x = politybefore, y = polityafter), color = "red", shape = 21) +
+  labs(title = "Democracy before/after assasination attempts",
+       x = "Democracy Level (Before)",
+       y = "Democracy Level (After)") +
+  theme_bw() +
+  theme(plot.title = element_text(size=8),
+        axis.title.x = element_text(size=7),
+        axis.title.y = element_text(size=7))
+```
+
+
+---
+
+# Scatterplot
+
+\footnotesize
+```{r, echo=T}
+leaders[3, c("politybefore","polityafter")]
+```
+
+
+```{r, echo=F, fig.width=3, fig.height=2}
+leaders %>%
+  ggplot(aes(x = politybefore, y = polityafter)) +
+  geom_point(shape = 21) +
+  labs(title = "Democracy before/after assasination attempts",
+       x = "Democracy Level (Before)",
+       y = "Democracy Level (After)") +
+  theme_bw() +
+  theme(plot.title = element_text(size=8),
+        axis.title.x = element_text(size=7),
+        axis.title.y = element_text(size=7))
+```
+
+---
+
+# How big is big?
+
+\pause 
+  - Would be nice to have a standard summary of how similar variables are \pause
+    - Problem: variables on different scales! \pause
+    - Needs a way to put any variable on common units \pause
+    
+  - **z-score** to the rescue! \pause
+  
+  $$
+  \text{z-score of } x_i = \frac{x_i - \text{mean of } x}{\text{standard deviation of }x}
+  $$
+ \pause
+ 
+  - Crucial property: z-scores don't depend on units \pause
+  
+  $$
+  \text{z-score of } (ax_i + b) = \text{z-score of } x_i
+  $$
+  
+---
+
+# Correlation
+ \pause
+ 
+  - How do variables move together on average? \pause
+  - When $x_i$ is big, what is $y_i$ likely to be? \pause
+    - Positive correlation: when $x_i$ is big, $y_i$ is also big \pause
+    - Negative correlation: when $x_i$ is big, $y_i$ is small \pause
+    - High magnitude of correlation: data cluster tightly around a line \pause
+    
+  - The technical definition of the **correlation coefficient**: \pause
+  
+  $$
+  \frac{1}{n-1} \sum_{i=1}^{n}{\left[ (\text{z-score for }x_i)\times(\text{z-score for }y_i) \right]}
+  $$
+  
+---
+
+# Correlation intuition:
+ 
+\begin{center}
+\includegraphics[width=.75\textwidth]{figs/corr1.png}
+\end{center}
+
+---
+
+# Correlation intuition:
+
+ 
+\begin{center}
+\includegraphics[width=.75\textwidth]{figs/corr2.png}
+\end{center}
+\pause
+
+  - Large values of $X$ tend to occur with large values of $Y$ \pause
+    - (z-score for $x_i$) $\times$ (z-score for $y_1$) = (pos. num.) $\times$ (pos. num.) $= +$ \pause
+  - Small values of $X$ tend to occur with small values of $Y$   \pause
+    - (z-score for $x_i$) $\times$ (z-score for $y_1$) = (neg. num.) $\times$ (neg. num.) $= +$ \pause
+  - If these dominate $\rightsquigarrow$ positive correlation
+  
+---
+
+# Correlation intuition:
+
+ 
+\begin{center}
+\includegraphics[width=.75\textwidth]{figs/corr3.png}
+\end{center}
+\pause
+
+  - Large values of $X$ tend to occur with small values of $Y$ \pause
+    - (z-score for $x_i$) $\times$ (z-score for $y_1$) = (pos. num.) $\times$ (neg. num.) $= -$ \pause
+  - Small values of $X$ tend to occur with large values of $Y$   \pause
+    - (z-score for $x_i$) $\times$ (z-score for $y_1$) = (neg. num.) $\times$ (pos. num.) $= -$ \pause
+  - If these dominate $\rightsquigarrow$ negative correlation  
+    
+---
+
+# Properties of correlation coefficient
+
+ \pause
+ 
+  - Correlation measures **linear** association. \pause
+  - Interpretation: \pause
+    - Correlation is between -1 and 1 \pause
+    - Correlation of 0 means no linear association \pause
+    - Positive correlations $\rightsquigarrow$ positive associations \pause
+    - Negative correlations $\rightsquigarrow$ negative associations \pause
+    - Closer to -1 or 1 means stronger association \pause
+  - Order doesn't matter: `cor`(x,y) = `cor`(y,x) \pause
+  - Not affected by changes of scale: \pause
+    - `cor`(x,y) = `cor`(ax+b, cy+d)
+    - Celsius vs. Fahrenheit; dollars vs. pesos; cm vs. in.
+    
+---
+
+# Correlation in R
+
+  - Use the `cor()` function \pause 
+  
+```{r}
+leaders %>%
+  select(politybefore, polityafter) %>%
+  cor()
+```
+  
+  - Very highly correlated!
+
+---
+
+# Assassination attempts
+
+  - See the possible attempt results
+  
+```{r}
+unique(leaders$result)
+```
+
+--- 
+
+# Creating an attempt fatal variable
+
+  - use `ifelse` to create a `fatal` variable
+
+```{r}
+## create new vector of unique results of "result" 
+lev <- unique(leaders$result)
+leaders <- leaders %>%
+  mutate(fatal = ifelse(result %in% lev[c(2,7,8,10)], 1,0))
+leaders %>%
+  summarize(mean(fatal))
+```
+
+---
+
+# Remember boxplots?
+
+```{r, echo=F, fig.width=3.5, fig.height=2.5}
+leaders %>%
+  ggplot(aes(y = politybefore)) + 
+  geom_boxplot() +
+  scale_y_continuous(breaks = seq(-10, 10,by = 5)) + 
+  xlim(-.75,.75) + 
+  labs(title = "Pre-Attempt Democracy Level", y = "Pre-Attempt Polity Score") +
+  theme_bw() + 
+  theme(axis.text.x=element_blank(),
+        axis.ticks.x=element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+```
+
+---
+
+# Comparing distribution with the boxpot
+
+  - What if we want to know how the distribution varies by success?
+
+```{r, echo=F, fig.width=3.5, fig.height=2.5}
+leaders %>%
+  ggplot(aes(y = politybefore, x = factor(fatal,labels = c("Survived", "Died")))) + 
+  geom_boxplot() +
+  scale_y_continuous(breaks = seq(-10, 10,by = 5)) + 
+  labs(title = "Pre-attempt Democracy Level by Attempt Outcome", y = "Pre-Attempt Polity Score", x = "Assassination Attempt Outcome") +
+  theme_bw() +
+  theme(plot.title = element_text(size=9),
+        axis.title.x = element_text(size = 9),
+        axis.title.y = element_text(size = 9),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+```
+
+---
+
+# Boxplot comparisons in R
+
+```{r, echo=T, fig.show='hide'}
+leaders %>%
+  ggplot(aes(y = politybefore, 
+             x = factor(fatal,labels = c("Survived", "Died")))) + 
+  geom_boxplot() +
+  scale_y_continuous(breaks = seq(-10, 10,by = 5)) + 
+  labs(title = "Pre-attempt Democracy Level by Attempt Outcome", 
+       y = "Pre-Attempt Polity Score", 
+       x = "Assassination Attempt Outcome") +
+  theme_bw() +
+  theme(plot.title = element_text(size=9),
+        axis.title.x = element_text(size = 9),
+        axis.title.y = element_text(size = 9),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+```
+
+---
+
+# Quantile-Quantile Plot
+
+  - How do we compare distributions of two variables that are not in the same dataset?
+    - Could use boxplots, but it's only a crude summary of the distributions.
+  - **Quantile-quantile plot (Q-Q plot)**: scatterplot of **quantiles**
+    - (min of $X$, min of $Y$)
+    - (median of $X$, median of $Y$)
+    - (25th percentile of $X$, 25th percentile of $Y$)
+  - Intuitions:
+    - If distributions are the same $\rightsquigarrow$ all points on a 45-degree line
+    - Points above 45$^{\circ}$ line $\rightsquigarrow$ y-axis variable has larger value of the quantile
+    - Point below 45$^{\circ}$ line $\rightsquigarrow$ x-axis variable has larger value of the quantile
+    - Steeper slope than 45$^{\circ}$ line $\rightsquigarrow$ y-axis variable has more spread
+    - Flatter slope than 45$^{\circ}$ line $\rightsquigarrow$ x-axis variable has more spread
+    
+---
+
+# QQ-plot example
+
+```{r, echo=F, fig.width=4, fig.height=3}
+leaders <- leaders %>%
+  mutate(polity_change = polityafter - politybefore,
+         polity_change_f = ifelse(fatal==1,polity_change,NA),
+         polity_change_nf = ifelse(fatal==0,polity_change,NA))
+
+quantile_probs <- seq(from = 0, to = 1, by = 0.01)
+quantile_names <- as.character(quantile_probs)
+
+quantiles <- leaders %>%
+  group_by(fatal) %>%
+  summarize(politychng_quantile = quantile(polity_change, probs = quantile_probs),
+            quantile = quantile_names) %>%
+  pivot_wider(names_from = fatal,
+              values_from = politychng_quantile) 
+  
+
+quantiles %>%
+  ggplot(aes(x = `0`, 
+             y = `1`)) + 
+  geom_point(shape = 1) +
+  geom_abline(intercept = 0, slope = 1, linetype = "dashed") +
+  scale_y_continuous(breaks = seq(-20, 15,by = 5)) +
+  scale_x_continuous(breaks = seq(-20, 15,by = 5)) +
+  labs(title = "Change in Polity: Leader Survived vs. Leader Died", 
+       y = "Change in Polity, Leader Died",
+       x = "Change in Polity, Leader Died") +
+  theme_bw() +
+  theme(plot.title = element_text(size=9),
+        axis.title.x = element_text(size = 9),
+        axis.title.y = element_text(size = 9))
+```
+
+---
+
+# QQ-plot example (setup)
+
+\small 
+```{r, echo=T, results='hide'}
+## calculate change in polity
+leaders <- leaders %>%
+  mutate(polity_change = polityafter - politybefore)
+
+## set quantile vectors
+quantile_probs <- seq(from = 0, to = 1, by = 0.01)
+quantile_names <- as.character(quantile_probs)
+
+## generate dataframe for plot
+quantiles <- leaders %>%
+  group_by(fatal) %>%
+  summarize(politychng_quantile = quantile(polity_change, probs = quantile_probs),
+            quantile = quantile_names) %>%
+  pivot_wider(names_from = fatal,
+              values_from = politychng_quantile) 
+```
+
+
+---
+
+# QQ-plot example (plot)
+
+\small 
+```{r, echo=T, fig.show='hide'}
+quantiles %>%
+  ggplot(aes(x = `0`, y = `1`)) + 
+  geom_point(shape = 1) +
+  geom_abline(intercept = 0, slope = 1, linetype = "dashed") +
+  scale_y_continuous(breaks = seq(-20, 15,by = 5)) +
+  scale_x_continuous(breaks = seq(-20, 15,by = 5)) +
+  labs(title = "Change in Polity: Leader Survived vs. Leader Died", 
+       y = "Change in Polity, Leader Died",
+       x = "Change in Polity, Leader Died") +
+  theme_bw() +
+  theme(plot.title = element_text(size=9),
+        axis.title.x = element_text(size = 9),
+        axis.title.y = element_text(size = 9))
+```
+
+
+
+  
+    
