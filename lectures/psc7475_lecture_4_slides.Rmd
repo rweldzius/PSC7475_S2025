@@ -1,5 +1,5 @@
 ---
-title: "Visualizing Distributions & Missing Data"
+title: "Visualizing Distributions, Missing Data, Bivariate Plots"
 subtitle: "PSC7475: Week 4"
 author: "Prof. Weldzius"
 institute: "Villanova University"
@@ -660,7 +660,7 @@ quantiles %>%
 
 # QQ-plot example (setup)
 
-\small 
+\footnotesize 
 ```{r, echo=T, results='hide'}
 ## calculate change in polity
 leaders <- leaders %>%
