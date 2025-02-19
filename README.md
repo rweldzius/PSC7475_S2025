@@ -369,6 +369,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * QSS 3.4-3.8
 
+**Lecture**: [Lecture 4](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_4_slides_handout.pdf)
+
 **Assignments**:
  * QSS Tidyverse Tutorial 4 due Tuesday (02/11) by 11:59PM ET
  * [Problem Set 2](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset2.Rmd) due Friday (02/14) by 11:59PM ET
@@ -384,6 +386,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * QSS 4.1-4.2.6
 
+**Lecture**: [Lecture 5](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_5_slides_handout.pdf)
+
 **Assignments**:
  * QSS Tidyverse Tutorial 5 due Tuesday (02/18) by 11:59PM ET
  * Exam 1 posted
@@ -398,6 +402,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Readings**:
  * QSS 4.3
+
+**Lecture**: [Lecture 6](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_6_slides_handout.pdf)
 
 **Assignments**:
  * QSS Tidyverse Tutorial 6 due Tuesday (02/25) by 11:59PM ET
