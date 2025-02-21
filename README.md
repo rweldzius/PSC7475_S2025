@@ -279,15 +279,15 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [3](#week-3) | 02/03 | Measurement: Descriptive Statistics  | T: QSS Tutorial 3  |
 | [4](#week-4) | 02/10 | Measurement: Sampling & Bivariate Statistics | T: QSS Tutorial 4 <br /> F: [PSet 2](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset2.Rmd) |
 | [5](#week-5) | 02/17 | Prediction: Elections & Regression  | T: QSS Tutorial 5  |
-| [6](#week-6) | 02/24 | Prediction: Interactions & Nonlinearities | T: QSS Tutorial 6 <br /> F: Exam 1 |
+| [6](#week-6) | 02/24 | Prediction: More Regression |  F: Exam 1 
 | [7](#week-7) | 03/03 | Spring Break |  |
-| [8](#week-8) | 03/10 | Probability: Basics  | T: QSS Tutorial 7   <br /> W: Final project proposal|
-| [9](#week-9) | 03/17 | Probability: Random Variables & Large Samples  | T: QSS Tutorial 8 <br /> F: PSet 3  |
-| [10](#week-10) | 03/24 | Inference: Estimation  | T: QSS Tutorial 9  |
-| [11](#week-11) | 03/31 | Inference: Hypothesis Testing  | T: QSS Tutorial 10   |
-| [12](#week-12) | 04/07 | Inference: Uncertainty in Regression  | F: PSet 4  |
-| [13](#week-13) | 04/14 | Review & Wrap Up  | W: Final project draft  |
-| [14](#week-14) | 04/21 | Class Presentations  | F: Exam 2 |
+| [8](#week-8) | 03/10 | Prediction: Interactions & Nonlinearities  | T: QSS Tutorial 6   <br /> W: Final project proposal|
+| [9](#week-9) | 03/17 | Probability: Basics | T: QSS Tutorial 7 |
+| [10](#week-10) | 03/24 | Probability: Random Variables & Large Samples | T: QSS Tutorial 8 <br /> F: PSet 3   |
+| [11](#week-11) | 03/31 | Inference: Estimation | T: QSS Tutorial 9   |
+| [12](#week-12) | 04/07 | Inference: Hypothesis Testing  |  T: QSS Tutorial 10  <br /> W: Final project draft |
+| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: PSet 4  |
+| [14](#week-14) | 04/21 | Wrap up & Review  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project  |
 
@@ -384,30 +384,30 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 02/17 - 02/21
 
 **Readings**:
- * QSS 4.1-4.2.6
+ * QSS 4.1-4.2.3
 
 **Lecture**: [Lecture 5](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_5_slides_handout.pdf)
 
 **Assignments**:
  * QSS Tidyverse Tutorial 5 due Tuesday (02/18) by 11:59PM ET
- * Exam 1 posted
+ * [Exam 1](https://github.com/rweldzius/PSC7475_S2025/blob/main/exams/psc7475_s25_exam1.Rmd) posted
 
 [Back to schedule](#schedule)
 
 ## Week 6
 
-**Topic**: Prediction: Interactions & Nonlinearities
+**Topic**: Prediction: More Regression!
 
 **Dates**: 02/24 - 02/28
 
 **Readings**:
- * QSS 4.3
+ * QSS 4.2.4-4.2.6
 
 **Lecture**: [Lecture 6](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_6_slides_handout.pdf)
 
 **Assignments**:
- * QSS Tidyverse Tutorial 6 due Tuesday (02/25) by 11:59PM ET
- * Exam 1 due Friday (02/28) by 11:59PM ET
+ * No tutorial this week
+ * [Exam 1](https://github.com/rweldzius/PSC7475_S2025/blob/main/exams/psc7475_s25_exam1.Rmd) due Friday (02/28) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
@@ -421,96 +421,98 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 ## Week 8
 
-**Topic**: Probability: Basics
+**Topic**: Interactions & Nonlinearities in Regression 
 
 **Dates**: 03/10 - 03/14
 
 **Readings**:
- * QSS 6.1-6.2
+ * M: QSS 4.3-4.5
 
 **Assignments**:
- * QSS Tutorial 7 due Tuesday (03/11) by 11:59PM ET
+ * QSS Tidyverse Tutorial 6 due Tuesday (03/11) by 11:59PM ET
  * Final Project proposal due Wednesday (03/12) by 11:59PM ET
- * Problem Set 3 posted
+
 
 [Back to schedule](#schedule)
 
 ## Week 9
 
-**Topic**: Probability: Random Variables & Large Samples
+**Topic**: Probability: Basics
 
 **Dates**: 03/17 - 03/21
 
 **Readings**:
- * QSS 6.3-6.4
+ * M: QSS 6.1-6.2 
 
 **Assignments**:
- * QSS Tutorial 8 due Tuesday (03/18) by 11:59PM ET
- * Problem Set 3 due by Friday (03/21) by 11:59PM ET
+ * QSS Tutorial 7 due Tuesday (03/18) by 11:59PM ET
+ * Problem Set 3 posted
 
 [Back to schedule](#schedule)
 
 ## Week 10
 
-**Topic**: Inference: Estimation
+**Topic**: Probability: Random Variables & Large Samples
 
 **Dates**: 03/24 - 03/28
 
 **Readings**:
- * QSS 7.1
+ * M: QSS 6.3-6.5
 
 **Assignments**:
- * QSS Tutorial 9 due Tuesday (03/25) by 11:59PM ET
-
+ * QSS Tutorial 8 due Tuesday (03/25) by 11:59PM ET
+ * Problem Set 3 due by Friday (03/28) by 11:59PM ET
+  
 [Back to schedule](#schedule)
 
 ## Week 11
 
-**Topic**: Inference: Hypothesis Testing
+**Topic**: Inference: Estimation
 
 **Dates**: 03/31 - 04/04
 
 **Readings**:
- * QSS 7.2
+ * M: QSS  7.1 
 
 **Assignments**:
- * QSS Tutorial 10 due Tuesday (04/01) by 11:59PM ET
+ * QSS Tutorial 9 due Tuesday (04/01) by 11:59PM ET
  * Problem Set 4 posted
 
 [Back to schedule](#schedule)
 
 ## Week 12
 
-**Topic**: Inference: Uncertainty in Regression
+**Topic**: Inference: Hypothesis Testing
 
 **Dates**: 04/07 - 04/11
 
 **Readings**:
- * QSS 7.3
+ * M: QSS 7.2
 
 **Assignments**:
- * Problem Set 4 due Friday (04/11) by 11:59PM ET
+ * QSS Tutorial 10 due Tuesday (04/08) by 11:59PM ET
+ * Final Project *draft* analysis due Wednesday (04/09) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
 ## Week 13
 
-**Topic**: Review & Wrap Up
+**Topic**: Inference: Uncertainty in Regression
 
-**Dates**: 04/14 - 04/18 
+**Dates**: 04/14 - 04/18  (No class on Friday 04/18 for Easter Recess)
 
 **Readings**:
- * None. Come with looming questions
+ * QSS 7.3
 
 **Assignments**:
- * Final Project draft analysis due Wednesday (04/16) by 11:59PM ET
- * Exam 2 posted
+ * No more tutorials! Let's goooo!
+ * Problem Set 4 due Wednesday (04/16) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
 ## Week 14
 
-**Topic**: TBD
+**Topic**: Class wrap-up and review
 
 **Dates**: 04/21 - 04/25
 
