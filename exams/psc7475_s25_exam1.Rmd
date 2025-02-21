@@ -53,6 +53,8 @@ The data set `draft.csv` contains the following variables that were obtained fro
  `state`              Respondent’s living state in 2014
  -------------------------------------------------------------------------------
 
+# Exam
+
 ## Question 1 (5 points)
 
 Load the data and save it as an object called `draft`. Create a barplot of the ideology variable with the heights corresponding to counts in each category. Format this plot nicely with axis labels and informative labels for each bar the on barplot.
