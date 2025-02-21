@@ -279,7 +279,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [3](#week-3) | 02/03 | Measurement: Descriptive Statistics  | T: QSS Tutorial 3  |
 | [4](#week-4) | 02/10 | Measurement: Sampling & Bivariate Statistics | T: QSS Tutorial 4 <br /> F: [PSet 2](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset2.Rmd) |
 | [5](#week-5) | 02/17 | Prediction: Elections & Regression  | T: QSS Tutorial 5  |
-| [6](#week-6) | 02/24 | Prediction: More Regression |  F: Exam 1 
+| [6](#week-6) | 02/24 | Prediction: More Regression |  F: [Exam 1](https://github.com/rweldzius/PSC7475_S2025/blob/main/exams/psc7475_s25_exam1.Rmd) 
 | [7](#week-7) | 03/03 | Spring Break |  |
 | [8](#week-8) | 03/10 | Prediction: Interactions & Nonlinearities  | T: QSS Tutorial 6   <br /> W: Final project proposal|
 | [9](#week-9) | 03/17 | Probability: Basics | T: QSS Tutorial 7 |
