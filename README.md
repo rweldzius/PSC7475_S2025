@@ -428,6 +428,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * M: QSS 4.3-4.5
 
+**Lecture**: [Lecture 7](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_7_slides_handout.pdf)
+
 **Assignments**:
  * QSS Tidyverse Tutorial 6 due Tuesday (03/11) by 11:59PM ET
  * Final Project proposal due Wednesday (03/12) by 11:59PM ET
@@ -442,7 +444,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 03/17 - 03/21
 
 **Readings**:
- * M: QSS 6.1-6.2 
+ * M: QSS 6.1-6.2
+
+**Lecture**: [Lecture 8](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_8_slides_handout.pdf); [Lecture on Bayes Rule](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_8_slides_bayes.pdf) (to be posted after class)
 
 **Assignments**:
  * QSS Tutorial 7 due Tuesday (03/18) by 11:59PM ET
