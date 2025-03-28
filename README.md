@@ -73,7 +73,7 @@ Here is how each portion of the course contributes to the overall grade:
 | R Tutorials | 10% |
 | Four Problem Sets | 40% |
 | Exams | 30% |
-| Final Project | 20% |
+|  | 20% |
 
 You will use Blackboard for submission of the various assignments throughout the semester. 
 
@@ -151,7 +151,7 @@ The final project for the course will be a data analysis project where students 
 | Milestone | Due Date | 
 |:-----|:-----|
 | Proposal | Wed (03/12) by 11:59PM ET |
-| Draft Analyses | Wed (04/16) by 11:59PM ET |
+| Draft Analyses | Mon (04/16) by 11:59PM ET |
 | In-class presentations | 04/30 |
 | Final Report | Fri (05/09) by 11:59PM ET | 
 
@@ -285,8 +285,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [9](#week-9) | 03/17 | Probability: Basics | T: QSS Tutorial 7 |
 | [10](#week-10) | 03/24 | Probability: Random Variables & Large Samples | T: QSS Tutorial 8 <br /> F: PSet 3   |
 | [11](#week-11) | 03/31 | Inference: Estimation | T: QSS Tutorial 9   |
-| [12](#week-12) | 04/07 | Inference: Hypothesis Testing  |  T: QSS Tutorial 10  <br /> W: Final project draft |
-| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: PSet 4  |
+| [12](#week-12) | 04/07 | Inference: Hypothesis Testing  |  T: QSS Tutorial 10   |
+| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: PSet 4  <br /> W: Final project draft |
 | [14](#week-14) | 04/21 | Wrap up & Review  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project  |
@@ -495,7 +495,6 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * QSS Tutorial 10 due Tuesday (04/08) by 11:59PM ET
- * Final Project *draft* analysis due Wednesday (04/09) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
@@ -532,18 +531,18 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 04/30
 
 **Assignments**:
- * None
+ * Final Project *draft* analysis due Monday (04/30) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
 ## Week 16
 
-**Topic**: Final s Due
+**Topic**: Final projects Due
 
 **Dates**: 05/09
 
 **Assignments**:
- * Final  write-up due Friday (05/09) by 11:59PM ET
+ * Final project write-up due Friday (05/09) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
