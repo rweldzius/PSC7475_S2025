@@ -492,6 +492,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Readings**:
  * M: QSS 7.2
+ * F: **No class!**
 
 **Assignments**:
  * QSS Tutorial 10 due Tuesday (04/08) by 11:59PM ET
@@ -531,7 +532,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 04/30
 
 **Assignments**:
- * Final Project *draft* analysis due Monday (04/30) by 11:59PM ET
+ * Final Project *draft* analysis due Monday (04/30) by 11:59AM ET
 
 [Back to schedule](#schedule)
 
