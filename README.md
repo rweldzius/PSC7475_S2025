@@ -151,7 +151,7 @@ The final project for the course will be a data analysis project where students 
 | Milestone | Due Date | 
 |:-----|:-----|
 | Proposal | Wed (03/12) by 11:59PM ET |
-| Draft Analyses | Mon (04/16) by 11:59PM ET |
+| Draft Analyses | Mon (04/14) by 11:59PM ET |
 | In-class presentations | 04/30 |
 | Final Report | Fri (05/09) by 11:59PM ET | 
 
@@ -283,10 +283,10 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [7](#week-7) | 03/03 | Spring Break |  |
 | [8](#week-8) | 03/10 | Prediction: Interactions & Nonlinearities  | T: QSS Tutorial 6   <br /> W: Final project proposal|
 | [9](#week-9) | 03/17 | Probability: Basics | T: QSS Tutorial 7 |
-| [10](#week-10) | 03/24 | Probability: Random Variables & Large Samples | T: QSS Tutorial 8 <br /> F: PSet 3   |
+| [10](#week-10) | 03/24 | Probability: Random Variables & Large Samples | T: QSS Tutorial 8 <br /> F: [Pset 3](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset3.Rmd)  |
 | [11](#week-11) | 03/31 | Inference: Estimation | T: QSS Tutorial 9   |
 | [12](#week-12) | 04/07 | Inference: Hypothesis Testing  |  T: QSS Tutorial 10   |
-| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: PSet 4  <br /> W: Final project draft |
+| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: Final project draft <br /> W: PSet 4  |
 | [14](#week-14) | 04/21 | Wrap up & Review  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project  |
@@ -465,7 +465,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * QSS Tutorial 8 due Tuesday (03/25) by 11:59PM ET
- * Problem Set 3 due by Friday (03/28) by 11:59PM ET
+ * [Problem Set 3](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset3.Rmd)  due by Friday (03/28) by 11:59PM ET
   
 [Back to schedule](#schedule)
 
@@ -510,6 +510,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * No more tutorials! Let's goooo!
+ * Final Project *draft* analysis due Monday (04/14) by 11:59PM ET
  * Problem Set 4 due Wednesday (04/16) by 11:59PM ET
 
 [Back to schedule](#schedule)
@@ -530,9 +531,6 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Topic**: Class Presentations
 
 **Dates**: 04/30
-
-**Assignments**:
- * Final Project *draft* analysis due Monday (04/30) by 11:59AM ET
 
 [Back to schedule](#schedule)
 
