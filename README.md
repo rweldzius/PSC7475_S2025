@@ -485,6 +485,10 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS Tutorial 9 due Tuesday (04/01) by 11:59PM ET
  * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  posted
 
+**Slides**:
+ * [Lecture 10](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_10_slides_handout.pdf)
+
+
 [Back to schedule](#schedule)
 
 ## Week 12
