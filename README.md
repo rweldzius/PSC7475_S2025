@@ -286,7 +286,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [10](#week-10) | 03/24 | Probability: Random Variables & Large Samples | T: QSS Tutorial 8 <br /> F: [Pset 3](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset3.Rmd)  |
 | [11](#week-11) | 03/31 | Inference: Estimation | T: QSS Tutorial 9   |
 | [12](#week-12) | 04/07 | Inference: Hypothesis Testing  |  T: QSS Tutorial 10   |
-| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: Final project draft <br /> W: PSet 4  |
+| [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: Final project draft <br /> W: [Pset 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)   |
 | [14](#week-14) | 04/21 | Wrap up & Review  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
 | [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project  |
@@ -463,6 +463,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Readings**:
  * M: QSS 6.3-6.5
 
+**Slides**:
+ * [Lecture 9](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_9_slides_handout.pdf)
+
 **Assignments**:
  * QSS Tutorial 8 due Tuesday (03/25) by 11:59PM ET
  * [Problem Set 3](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset3.Rmd)  due by Friday (03/28) by 11:59PM ET
@@ -480,7 +483,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * QSS Tutorial 9 due Tuesday (04/01) by 11:59PM ET
- * Problem Set 4 posted
+ * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  posted
 
 [Back to schedule](#schedule)
 
@@ -492,7 +495,6 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Readings**:
  * M: QSS 7.2
- * F: **No class!**
 
 **Assignments**:
  * QSS Tutorial 10 due Tuesday (04/08) by 11:59PM ET
@@ -511,7 +513,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Assignments**:
  * No more tutorials! Let's goooo!
  * Final Project *draft* analysis due Monday (04/14) by 11:59PM ET
- * Problem Set 4 due Wednesday (04/16) by 11:59PM ET
+ * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  due Wednesday (04/16) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
