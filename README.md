@@ -485,6 +485,10 @@ Villanova University makes every reasonable effort to allow members of the commu
  * QSS Tutorial 9 due Tuesday (04/01) by 11:59PM ET
  * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  posted
 
+**Slides**:
+ * [Lecture 10](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_10_slides_handout.pdf)
+
+
 [Back to schedule](#schedule)
 
 ## Week 12
@@ -499,6 +503,9 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Assignments**:
  * QSS Tutorial 10 due Tuesday (04/08) by 11:59PM ET
 
+**Slides**:
+ * [Lecture 11](https://rweldzius.github.io/PSC7475_S2025/lectures/psc7475_lecture_11_slides_handout.pdf)
+
 [Back to schedule](#schedule)
 
 ## Week 13
@@ -512,8 +519,8 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * No more tutorials! Let's goooo!
- * Final Project *draft* analysis due Monday (04/14) by 11:59PM ET
- * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  due Wednesday (04/16) by 11:59PM ET
+ * Final Project *draft* analysis due Wednesday (04/23) by 11:59PM ET
+ * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  due 04/23 by 11:59PM ET
 
 [Back to schedule](#schedule)
 
@@ -524,7 +531,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 **Dates**: 04/21 - 04/25
 
 **Assignments**:
- * Exam 2 due Friday (04/25) by 11:59PM ET
+ * Exam 2 due Monday (04/28) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
