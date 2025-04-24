@@ -1,0 +1,259 @@
+---
+title: "The End of Currency Manipulation? "
+subtitle: "Global Production Networks and Exchange Rate Outcomes"
+author: "Ryan Weldzius"
+institute: "Villanova University"
+date: "Slides Updated: `r Sys.Date()`"
+output:
+  beamer_presentation:
+    theme: "CambridgeUS"
+    colortheme: "seahorse"
+    fonttheme: "structurebold"
+header-includes:
+  - \usepackage{tikz}
+  - \usepackage{graphicx} 
+  - \usepackage{amssymb}
+  - \usepackage{fontenc}
+  - \usepackage{xcolor}    
+  - \usepackage{array}
+# classoption: "handout"  
+---
+
+```{css,echo = F}
+.small .remark-code { /*Change made here*/
+  font-size: 85% !important;
+}
+.tiny .remark-code { /*Change made here*/
+  font-size: 50% !important;
+}
+```
+
+```{r,include=F}
+set.seed(123)
+options(width=60)
+knitr::opts_chunk$set(fig.align='center',fig.width=9,fig.height=5,message=F,warning=F)
+def.chunk.hook  <- knitr::knit_hooks$get("chunk")
+knitr::knit_hooks$set(chunk = function(x, options) {
+  x <- def.chunk.hook(x, options)
+  ifelse(options$size != "normalsize", paste0("\n \\", options$size,"\n\n", x, "\n\n \\normalsize"), x)
+})
+library(tidyverse)
+library(tinytex)
+library(gridExtra)
+```
+
+# Why study currency manipulation?
+
+- Historical evidence that this strategy works \pause 
+  - Taiwan \pause
+  - Germany \pause
+  - Japan (pre-1985, Plaza Accord) \pause
+  - China (1995-2005) \pause
+  - South Korea, Sweden, Czechia, Israel, Vietnam, Malaysia, Indonesia \pause
+- 2018: No manipulators remained; \pause why?
+
+---
+
+# What caused this "end" of manipulation?
+
+- Market competitiveness; no longer benefits them \pause
+- Production plateau - can't keep up with demand \pause
+- Trump ends it \pause
+- IMF policy \pause
+- My argument: internationalization of production
+
+---
+
+# Currency manipulation
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+
+df <- read_csv("~/Downloads/currencymanip2020.csv")
+
+df <- df %>%
+  mutate(forex_gdp = lag(exp(l_forex_gdp_f1))) %>%
+  filter(country!="Libya") %>%
+  group_by(year) %>%
+  mutate(forex_gdp_mean = mean(forex_gdp, na.rm=T)) %>%
+  ungroup()
+
+df %>%
+  ggplot(aes(x=year, y=forex_gdp, group=country)) +
+  geom_line(alpha=0) +
+  geom_line(aes(x=year, y=forex_gdp_mean), size=1, color="red", alpha=0)+
+  theme_bw() +
+  labs(x="", y="Forex/GDP (%)") +
+  scale_x_continuous(limits=c(1990,2018), breaks=seq(1990,2018,5))
+```
+
+
+---
+
+# Currency manipulation
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  ggplot(aes(x=year, y=forex_gdp, group=country)) +
+  geom_line(alpha=0.15) +
+  geom_line(aes(x=year, y=forex_gdp_mean), size=1, color="red", alpha=0)+
+  theme_bw() +
+  labs(x="", y="Forex/GDP (%)") +
+  scale_x_continuous(limits=c(1990,2018), breaks=seq(1990,2018,5))
+```
+
+---
+
+# Currency manipulation
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  ggplot(aes(x=year, y=forex_gdp, group=country)) +
+  geom_line(alpha=0.15) +
+  geom_line(aes(x=year, y=forex_gdp_mean), size=1, color="red")+
+  theme_bw() +
+  labs(x="", y="Forex/GDP (%)") +
+  scale_x_continuous(limits=c(1990,2018), breaks=seq(1990,2018,5))
+```
+
+---
+
+# Currency manipulation and Global Value Chains
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  mutate(gvc_exp = exp(l_gvc_exp)) %>%
+  filter(gvc_exp<5) %>%
+  ggplot(aes(x=gvc_exp, y=forex_gdp)) +
+  geom_point(alpha=0) +
+  theme_bw() +
+  labs(x="GVC/Exports (%)", y="Forex/GDP (%)")
+```
+
+---
+
+# Currency manipulation and Global Value Chains
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  mutate(gvc_exp = exp(l_gvc_exp)) %>%
+  filter(gvc_exp<5) %>%
+  ggplot(aes(x=gvc_exp, y=forex_gdp)) +
+  geom_point(alpha=0.15) +
+  theme_bw() +
+  labs(x="GVC/Exports (%)", y="Forex/GDP (%)")
+```
+
+---
+
+# Currency manipulation and Global Value Chains
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  mutate(gvc_exp = exp(l_gvc_exp)) %>%
+  filter(gvc_exp<5) %>%
+  ggplot(aes(x=gvc_exp, y=forex_gdp)) +
+  geom_point(alpha=0.15) +
+  theme_bw() +
+  labs(x="GVC/Exports (%)", y="Forex/GDP (%)") +
+  geom_smooth(method="lm")
+```
+
+---
+
+# Hypotheses
+
+- H1: more dependent on trade, the more likely to manipulate \pause
+- H2: more dependent on trade, **conditional** on global value chain dependence, the **less** likely to manipulate \pause 
+
+\begin{align*}
+\text{forex/gdp}_{it} = & \alpha + \beta_1 (\text{Exports/GDP})_{it} + \beta_2 (\text{GVC/Exports})_{it} \\ 
+& + \beta_3 (\text{Exports/GDP})_{it} \times (\text{GVC/Exports})_{it} + \epsilon_{it}
+\end{align*}
+
+- $i$ indicates the country
+- \emph{t} indicates the year
+
+---
+
+# What is the affect of GVC trade on currency manipulation?
+
+```{r, echo=FALSE, message=FALSE}
+# Here you can include your statistical model. You'll want to output the results in a readable way. 
+# Use this link to help with formatting these tables (see "regression table"); note that you'll have to use some new libraries (and note what they include at the beginning of the R chunk, e.g., "message = FALSE"): https://zief0002.github.io/book-8252/pretty-printing-tables-in-markdown.html
+
+df$year_factor = as.factor(df$year)
+df$country_factor = as.factor(df$country)
+library(lfe)
+
+m1 <- felm(l_forex_gdp_f1 ~ l_exp_goods_gdp   | year_factor + country_factor | 0 | country_factor, data=df)
+m2 <- felm(l_forex_gdp_f1 ~ l_exp_goods_gdp*l_gvc_exp   | year_factor + country_factor | 0 | country_factor, data=df)
+
+```
+
+```{r echo=FALSE, warning=FALSE, message=FALSE, results='asis'} 
+library(stargazer)
+table <- stargazer(m1, m2, 
+          type = "latex",
+          header = FALSE,
+          no.space = TRUE,
+          float = FALSE,
+          keep.stat = c("n","adj.rsq"), # only keep what I need
+          column.labels = c("Model 1", "Model 2"),
+          colnames = FALSE,
+          model.numbers = FALSE,
+          dep.var.caption = " ",
+          dep.var.labels = "",
+          covariate.labels = c("Exports/GDP", "GVC/Exports","(Exp/GDP)x(GVC/Exp)"),
+          notes.align = "l"
+)
+
+#table <- table[-c(3:7)] # removes the top lines of the Stargazer table so we can see more rows
+cat(paste(table, collapse = "\n"))
+```
+
+
+---
+
+# Slide 5 title (concluding thoughts/next steps)
+
+- Layout your next steps (the `\pause` after each line allows me to reveal each line with a click; no need to put this on your last line of text): \pause
+  1. I need to look at the impact of a particular covariate/control, or add more controls \pause
+  2. Check residuals \pause
+  3. etc.
+
+
+---
+
+# Appendix 1
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  ggplot(aes(x=forex_gdp)) +
+  geom_density() 
+```
+
+---
+
+# Appendix 2
+
+```{r, echo=FALSE, fig.height=3, fig.width=4}
+# echo = FALSE stops Rmarkdown from showing anything in this chunk when you knit 
+# fig.height and fig.width might need to be adjusted
+df %>%
+  ggplot(aes(x=l_forex_gdp_f1)) +
+  geom_density() 
+```
