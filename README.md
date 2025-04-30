@@ -289,7 +289,7 @@ Villanova University makes every reasonable effort to allow members of the commu
 | [13](#week-13) | 04/14 | Inference: Uncertainty in Regression | W: Final project draft <br /> W: [Pset 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)   |
 | [14](#week-14) | 04/21 | Wrap up & Review  | F: Exam 2 |
 | [15](#week-15) | 04/28 | Class Presentations  |  |
-| [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project  |
+| [16](#week-16) | 05/05 | Final project due Friday (05/09) by 11:59PM ET | F: Final project <br /> F: [Exam 2](https://github.com/rweldzius/PSC7475_S2025/blob/main/exams/psc7475_s25_exam2.Rmd)  |
 
 [Back to ToC](#table-of-contents)
 
@@ -519,7 +519,6 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Assignments**:
  * No more tutorials! Let's goooo!
- * Final Project *draft* analysis due Wednesday (04/23) by 11:59PM ET
  * [Problem set 4](https://github.com/rweldzius/PSC7475_S2025/blob/main/psets/psc7475_s25_pset4.Rmd)  due 04/23 by 11:59PM ET
 
 [Back to schedule](#schedule)
@@ -530,9 +529,6 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Dates**: 04/21 - 04/25
 
-**Assignments**:
- * Exam 2 due Monday (04/28) by 11:59PM ET
-
 [Back to schedule](#schedule)
 
 ## Week 15
@@ -541,16 +537,20 @@ Villanova University makes every reasonable effort to allow members of the commu
 
 **Dates**: 04/30
 
+**Assignments**
+ * Final Project *draft* analysis due Monday (04/28) by 11:59PM ET
+
 [Back to schedule](#schedule)
 
 ## Week 16
 
-**Topic**: Final projects Due
+**Topic**: Final projects and Exams Due
 
 **Dates**: 05/09
 
 **Assignments**:
  * Final project write-up due Friday (05/09) by 11:59PM ET
+ * Exam 2 due Friday (05/09) by 11:59PM ET
 
 [Back to schedule](#schedule)
 
